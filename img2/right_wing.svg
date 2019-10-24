@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Selected_Items" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="903.35px" height="845.85px" viewBox="0 0 903.35 845.85" enable-background="new 0 0 903.35 845.85"
+	 xml:space="preserve">
+<text transform="matrix(1 0 0 1 93.3555 440.9609)"><tspan x="0" y="0" font-family="'Tahoma-Bold'" font-size="11">LEFT</tspan><tspan x="-3.553" y="15" font-family="'Tahoma-Bold'" font-size="11">WING</tspan></text>
+<g id="left_wing" class="border">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#B1B1B1" d="M76.9,424.4c6.5,0,9.75,3.25,9.75,9.75v26.05
+			c0,6.5-3.25,9.75-9.75,9.75H50.85c-6.5,0-9.75-3.25-9.75-9.75v-26.05c0-6.5,3.25-9.75,9.75-9.75H76.9z"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#999999" stroke-width="1.5" stroke-miterlimit="5" d="
+			M76.9,424.4H50.85c-6.5,0-9.75,3.25-9.75,9.75v26.05c0,6.5,3.25,9.75,9.75,9.75H76.9c6.5,0,9.75-3.25,9.75-9.75v-26.05
+			C86.65,427.65,83.4,424.4,76.9,424.4z"/>
+	</g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#0099FF" points="81.75,440.5 81.75,454.45 67.5,454.45 67.5,464.9 
+			43.1,447.45 67.5,430.05 67.5,440.5 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M766.925,643.425h0.025c0.394,0.078,0.728,0.253,1,0.525
+			c0.366,0.399,0.55,0.866,0.55,1.399v2.601c0,0.533-0.184,0.983-0.55,1.35c-0.367,0.4-0.834,0.601-1.4,0.601
+			c-0.5,0-0.967-0.2-1.399-0.601c-0.367-0.366-0.551-0.816-0.551-1.35v-2.601c0-0.533,0.184-1,0.551-1.399
+			c0.433-0.367,0.899-0.55,1.399-0.55C766.685,643.4,766.81,643.408,766.925,643.425z"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="766.95" y1="643.425" x2="779.45" y2="614.65"/>
+	</g>
+	<text transform="matrix(1 0 0 1 764.3496 611.0615)" font-family="'Tahoma'" font-size="11">632LB</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M774.9,644.375v0.025c0.166,0.284,0.25,0.601,0.25,0.949v2.601
+			c0,0.533-0.184,0.983-0.551,1.35c-0.433,0.4-0.899,0.601-1.399,0.601c-0.533,0-1.017-0.2-1.45-0.601
+			c-0.366-0.366-0.55-0.816-0.55-1.35v-2.601c0-0.533,0.184-1,0.55-1.399c0.434-0.367,0.917-0.55,1.45-0.55
+			c0.5,0,0.967,0.183,1.399,0.55C774.723,644.084,774.823,644.226,774.9,644.375z"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="774.9" y1="644.4" x2="815.95" y2="586.6"/>
+	</g>
+	<text transform="matrix(1 0 0 1 800.2002 582.5107)" font-family="'Tahoma'" font-size="11">632MB</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M796.05,227.7v-26.9l8.7,1c0.434,6.967,4.15,10.833,11.15,11.6
+			l1.024,6.4l1.875,11.95h-0.125c-1.072-2.881-3.797-4.231-8.175-4.05H796.05z M809.85,656.2c0-1.101-0.55-1.65-1.649-1.65h-7.851
+			c-1.1,0-1.649,0.55-1.649,1.65v5.95c0,1.1,0.55,1.649,1.649,1.649h7.851c1.1,0,1.649-0.55,1.649-1.649V656.2z M804.85,679.25
+			l-8.3,0.9V649.35h16.2c2.5,0.067,4.283-0.316,5.35-1.149c0.834-0.634,1.584-1.917,2.25-3.851l-3.6,22.4
+			c-5-0.033-8.25,0.8-9.75,2.5C805.667,670.75,804.95,674.083,804.85,679.25z"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M816.925,219.8l22.525-5.4 M819.5,657.1l23.35-5.449"/>
+	</g>
+	<text transform="matrix(1 0 0 1 842.5498 217.9756)" font-family="'Tahoma'" font-size="12">628BR</text>
+	<text transform="matrix(1 0 0 1 844.9502 655.4756)" font-family="'Tahoma'" font-size="12">628BR</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M803.05,659.1l6.8,2.351v0.7c0,1.1-0.55,1.649-1.649,1.649
+			h-7.851c-1.1,0-1.649-0.55-1.649-1.649v-5.95c0-1.101,0.55-1.65,1.649-1.65h7.851c1.1,0,1.649,0.55,1.649,1.65v5.25L803.05,659.1z
+			"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M809.85,661.45L827,667.35 M803.05,659.1l6.8,2.351"/>
+	</g>
+	<text transform="matrix(1 0 0 1 828.9004 670.7754)" font-family="'Tahoma'" font-size="12">628CB</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M810.05,206.65l2.125-2.425c0.233,0.2,0.459,0.408,0.675,0.625
+			c1.9,2,3.034,5.1,3.4,9.3c-0.066,0-0.134,0-0.2,0h-0.024l-0.125-0.75c-7-0.767-10.717-4.633-11.15-11.6l-0.4-0.05
+			c0.001-0.048,0.001-0.098,0-0.15c3.338,0.236,5.946,1.111,7.825,2.625L810.05,206.65z M814.525,674.925l-4.676-1.625
+			L814.525,674.925c-0.396,0.54-0.854,1.048-1.375,1.525c-1.667,1.467-3.567,2.283-5.7,2.45l-2.4,0.149l0.601-6.149
+			c0.033-0.167,0.066-0.334,0.1-0.5c0.333-1.5,1.066-2.767,2.2-3.801c1.166-1.066,2.5-1.649,4-1.75l5.05-0.25l-0.75,4.45
+			C815.936,672.489,815.36,673.781,814.525,674.925z"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M812.175,204.225l14.575-16.675 M810.05,206.65l2.125-2.425 M814.525,674.925l-4.676-1.625 M814.525,674.925l21.425,9.675"/>
+	</g>
+	<text transform="matrix(1 0 0 1 837.9502 688.7754)" font-family="'Tahoma'" font-size="12">628AR</text>
+	<text transform="matrix(1 0 0 1 811.3496 184.2759)" font-family="'Tahoma'" font-size="12">628AR</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M792.9,645.35v1.301v1.3c0,0.533-0.184,0.983-0.551,1.35
+			c-0.433,0.4-0.899,0.601-1.399,0.601c-0.533,0-1-0.2-1.4-0.601c-0.366-0.366-0.55-0.816-0.55-1.35v-2.601
+			c0-0.533,0.184-1,0.55-1.399c0.4-0.367,0.867-0.55,1.4-0.55c0.5,0,0.967,0.183,1.399,0.55
+			C792.717,644.35,792.9,644.816,792.9,645.35z"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="792.9" y1="646.65" x2="828" y2="634.4"/>
+	</g>
+	<text transform="matrix(1 0 0 1 830 637.3115)" font-family="'Tahoma'" font-size="11">632NB</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M735.3,645.35v2.601c0,0.533-0.184,0.983-0.55,1.35
+			c-0.4,0.4-0.866,0.601-1.4,0.601c-0.533,0-1-0.2-1.399-0.601c-0.4-0.366-0.601-0.816-0.601-1.35v-2.601c0-0.533,0.2-1,0.601-1.399
+			c0.399-0.367,0.866-0.55,1.399-0.55c0.243,0,0.468,0.041,0.676,0.125c0.265,0.083,0.507,0.225,0.725,0.425
+			C735.116,644.35,735.3,644.816,735.3,645.35z"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="734.025" y1="643.525" x2="779.3" y2="569.6"/>
+	</g>
+	<text transform="matrix(1 0 0 1 768.2998 567.0107)" font-family="'Tahoma'" font-size="11">632KB</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M731.15,634.3V647c0,0.866-0.317,1.6-0.95,2.2
+			c-0.634,0.6-1.384,0.899-2.25,0.899c-0.867,0-1.617-0.3-2.25-0.899c-0.601-0.601-0.9-1.334-0.9-2.2v-12.7
+			c0-0.866,0.3-1.616,0.9-2.25c0.633-0.6,1.383-0.899,2.25-0.899c0.866,0,1.616,0.3,2.25,0.899
+			C730.833,632.684,731.15,633.434,731.15,634.3z"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="748.3" y1="573.15" x2="727.5" y2="630.65"/>
+	</g>
+	<text transform="matrix(1 0 0 1 733.1504 569.5615)" font-family="'Tahoma'" font-size="11">632PB</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M711.95,641.7h-6.4v-6.851c0-0.933,0.3-1.733,0.9-2.399
+			c0.633-0.667,1.399-1,2.3-1c0.833,0,1.583,0.333,2.25,1c0.634,0.666,0.95,1.467,0.95,2.399V641.7z"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="710.3" y1="631.25" x2="718.05" y2="599.45"/>
+	</g>
+	<text transform="matrix(1 0 0 1 702.0498 596.0615)" font-family="'Tahoma'" font-size="11">643MB</text>
+</g>
+<g>
+	<g>
+		<rect x="686.65" y="631.05" fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" width="4.449" height="7.7"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#1A171B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="688.5" y1="630.35" x2="695.35" y2="560"/>
+	</g>
+	<text transform="matrix(1 0 0 1 680.25 557.4111)" font-family="'Tahoma'" font-size="11">643LB</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="648.45,633 663,633.4 680.65,633.9 680.3,639.8 
+			649.05,639.7 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="663" y1="633.4" x2="663.7" y2="607.5"/>
+	</g>
+	<text transform="matrix(1 0 0 1 645.9502 603.4111)" font-family="'Tahoma'" font-size="11">632FB*</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M641.15,608.4c3.066,7.666,5.25,15.733,6.55,24.199
+			c1.267,8.2,1.7,16.4,1.3,24.601c-0.1,2.5-0.917,4.434-2.45,5.8c-1.434,1.233-3.283,1.85-5.55,1.85c-2.167,0-3.95-0.733-5.35-2.199
+			c-1.334-1.467-2.084-3.434-2.25-5.9c-0.434-8.667,0.149-17.4,1.75-26.2C636.384,623.983,638.384,616.6,641.15,608.4z"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="641.5" y1="608.35" x2="647.5" y2="577.35"/>
+	</g>
+	<text transform="matrix(1 0 0 1 631.75 574.3115)" font-family="'Tahoma'" font-size="11">627AB</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="624,632.35 630.5,632.5 635.05,632.6 634.25,637.35 
+			624.1,637.25 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="630.5" y1="632.5" x2="623" y2="552.85"/>
+	</g>
+	<text transform="matrix(1 0 0 1 604.5 548.7607)" font-family="'Tahoma'" font-size="11">632EB*</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="624.1,632.35 624.2,639.5 568.75,639.45 568.8,630.7 
+			594,631.45 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="594" y1="631.45" x2="602.45" y2="606.35"/>
+	</g>
+	<text transform="matrix(1 0 0 1 583.25 602.1113)" font-family="'Tahoma'" font-size="11">632DB*</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="568.8,630.7 568.8,635.4 557.15,635.35 557.2,630.5 		
+			"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="563.5" y1="630.35" x2="587.5" y2="577.35"/>
+	</g>
+	<text transform="matrix(1 0 0 1 569.1504 573.4111)" font-family="'Tahoma'" font-size="11">632CB*</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M535.15,629.95l10.399,0.274l11.4,0.275v8.25l-20.8-0.1
+			C535.684,634.116,535.35,631.217,535.15,629.95z"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="545.55" y1="630.225" x2="551.5" y2="608.85"/>
+	</g>
+	<text transform="matrix(1 0 0 1 533.1504 604.3613)" font-family="'Tahoma'" font-size="11">632BB*</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M534.8,629.3c1.434,9.4,1.917,18.834,1.45,28.3
+			c-0.134,2.9-1.05,5.101-2.75,6.601c-1.6,1.434-3.684,2.149-6.25,2.149c-2.434,0-4.434-0.833-6-2.5
+			c-1.533-1.666-2.384-3.916-2.55-6.75c-0.5-10,0.166-20.066,2-30.199c1.366-7.534,3.6-16,6.7-25.4
+			C530.833,610.233,533.3,619.5,534.8,629.3z"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="527" y1="601.85" x2="519.5" y2="563.35"/>
+	</g>
+	<text transform="matrix(1 0 0 1 504.0498 559.9111)" font-family="'Tahoma'" font-size="11">626AB</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="436.65,638.95 436.65,627.05 516.5,629.5 516.5,638.9 		
+			"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="471" y1="627.85" x2="478.5" y2="603.35"/>
+	</g>
+	<text transform="matrix(1 0 0 1 461.1504 599.9609)" font-family="'Tahoma'" font-size="11">632AB*</text>
+</g>
+<g>
+	<g>
+		<rect x="293.55" y="625.15" fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" width="99.75" height="13.949"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#1A171B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="337" y1="591.35" x2="343" y2="624.85"/>
+	</g>
+	<text transform="matrix(1 0 0 1 318.0498 587.5107)" font-family="'Tahoma'" font-size="11">631AB*</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M774.45,198.8l21.25,2l-0.101,5.85l-21.6-1.3l0.4-6.55H774.45z
+			 M781.85,681.525l-14.6,1.425h-0.05v-6.9l29.3-1.85v5.899L781.85,681.525z"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M784.95,199.4l14.5-30.1 M781.85,681.525l55,31.524"/>
+	</g>
+	<text transform="matrix(1 0 0 1 783.5 165.311)" font-family="'Tahoma'" font-size="11">613DR</text>
+	<text transform="matrix(1 0 0 1 839.5996 716.9609)" font-family="'Tahoma'" font-size="11">613DR</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M680.45,189.7v-0.05l48.024,4.675L774.4,198.8l-0.4,6.55
+			l-94.25-5.75L680.45,189.7z M752.5,684.375l-75.45,7.275v-0.075l0.75-10.025l89.4-5.45v6.851L752.5,684.375z"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#1A171B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M728.475,194.325L735,172.2 M752.5,684.375L766,742.85"/>
+	</g>
+	<text transform="matrix(1 0 0 1 720.0498 167.3613)" font-family="'Tahoma'" font-size="11">613CR</text>
+	<text transform="matrix(1 0 0 1 751.4502 754.0615)" font-family="'Tahoma'" font-size="11">613CR</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M680.45,189.7l-0.7,9.9l-82.95-5.1l0.601-12.75h0.1l38,3.65
+			L680.45,189.7z M677.2,691.55l-74.5,7.2l0.75-12.65h0.05l74.25-4.55L677.2,691.55z"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#1A171B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M635.5,185.4l-6.5-31.5 M633.8,726.8l6.5-31.5"/>
+	</g>
+	<text transform="matrix(1 0 0 1 612.7998 149.1611)" font-family="'Tahoma'" font-size="11">613BR</text>
+	<text transform="matrix(1 0 0 1 617.25 737.2109)" font-family="'Tahoma'" font-size="11">613BR</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M556.95,192.1l0.899-14.45l39.65,4.05v0.05h-0.1l-0.65,12.85
+			L556.95,192.1z M580.425,701.075L560.9,703.05h-0.051l0.801-14.5l41.85-2.6v0.149h-0.05l-0.75,12.65l0.25-0.025v0.075
+			L580.425,701.075z"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#1A171B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M579,179.4l-5.5-31 M580.425,701.075L574.95,732"/>
+	</g>
+	<text transform="matrix(1 0 0 1 557.4502 143.561)" font-family="'Tahoma'" font-size="11">613AR</text>
+	<text transform="matrix(1 0 0 1 558.3496 743.6611)" font-family="'Tahoma'" font-size="11">613AR</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M557.85,177.65l-1,14.45l-92.55-5.8h-0.05l1.1-17.45v-0.05
+			l48.15,4.6L557.85,177.65z M465.6,694.5l96.051-5.9l-0.801,14.45l-95.199,9.15L465.6,694.5z"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#1A171B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M513.5,173.4v-32 M517.95,740.2v-32.5"/>
+	</g>
+	<text transform="matrix(1 0 0 1 497.25 136.7109)" font-family="'Tahoma'" font-size="11">612DR</text>
+	<text transform="matrix(1 0 0 1 502.2002 751.5107)" font-family="'Tahoma'" font-size="11">612DR</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M465.6,694.725l0.051,17.476l0.75-0.075v0.225l-4.051,0.4v-9.9
+			l-10,0.4l0.025,2.8l-8.625,0.4l0.05,8.075l-7.1,0.675v-18.7L465.6,694.725z M438,184.75V166.2l5.35,0.525l-0.05,0.325
+			l-0.375,6.075l0.375,0.375l8.175,0.8l-0.175,2.8l9.9,0.95l0.55-9.55l3.6,0.35l-1.1,17.45L438,184.75z"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M438.2,131.2h3v35 M438,750.2h3v-35"/>
+	</g>
+	<text transform="matrix(1 0 0 1 401.5 135.376)" font-family="'Tahoma'" font-size="12">612AR</text>
+	<text transform="matrix(1 0 0 1 400.2002 754.0762)" font-family="'Tahoma'" font-size="12">612AR</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M448.45,167.225l3.475,0.325l-0.45,6.75l-8.175-0.8l-0.375-0.375
+			l0.375-6.075l0.05-0.325L448.45,167.225z M452.45,713.7l-3.95,0.375l-4.7,0.45l-0.05-7.726l0.375-0.375l8.25-0.375L452.45,713.7z"
+			/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M448.45,167.225V116.2H438 M437.5,764.45h11v-50.375"/>
+	</g>
+	<text transform="matrix(1 0 0 1 400.2002 769.0762)" font-family="'Tahoma'" font-size="12">612BR</text>
+	<text transform="matrix(1 0 0 1 401.4502 120.376)" font-family="'Tahoma'" font-size="12">612BR</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M457.45,168.075l4.3,0.425l-0.55,9.55l-9.9-0.95l0.625-9.55
+			L457.45,168.075z M458.25,713.15l-5.8,0.55l-0.101-10.45l10-0.4v9.9L458.25,713.15z"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M457.45,168.075V101.7H438 M458.25,713.15v68.05H437.5"/>
+	</g>
+	<text transform="matrix(1 0 0 1 400.2002 785.0762)" font-family="'Tahoma'" font-size="12">612CR</text>
+	<text transform="matrix(1 0 0 1 401.4502 105.376)" font-family="'Tahoma'" font-size="12">612CR</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M397.3,164.7l0.35,18.15l-100.1-6.3V158l53.425,3.6L397.3,164.7z
+			 M350.975,719.55l-54.925,3.75v-18.5l99.75-6.3l-0.1,18L350.975,719.55z"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#1A171B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M350.975,161.6L344,132.9 M350.975,719.55L344,747.95"/>
+	</g>
+	<text transform="matrix(1 0 0 1 327.0498 127.4111)" font-family="'Tahoma'" font-size="11">611AR</text>
+	<text transform="matrix(1 0 0 1 326.9502 759.3613)" font-family="'Tahoma'" font-size="11">611AR</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M686.45,649.5c-0.5-0.733-0.75-1.583-0.75-2.55v-8.2h6.3
+			l0.05,8.2c0.033,0.967-0.217,1.816-0.75,2.55c-0.467,0.7-1.066,1.05-1.8,1.05h-1.25C687.517,650.55,686.917,650.2,686.45,649.5z"
+			/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="661.6" y1="712.1" x2="688.6" y2="651.05"/>
+	</g>
+	<text transform="matrix(1 0 0 1 644.9004 723.9111)" font-family="'Tahoma'" font-size="11">632GB</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M702,644.2c0.366,0.434,0.55,0.899,0.55,1.399v2.601
+			c0,0.566-0.184,1.033-0.55,1.399c-0.4,0.367-0.866,0.551-1.4,0.551c-0.566,0-1.033-0.184-1.399-0.551
+			c-0.367-0.366-0.55-0.833-0.55-1.399V645.6c0-0.5,0.183-0.966,0.55-1.399c0.366-0.367,0.833-0.55,1.399-0.55
+			C701.134,643.65,701.6,643.833,702,644.2z"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="700.625" y1="650.725" x2="694.75" y2="696.575"/>
+	</g>
+	<text transform="matrix(1 0 0 1 678.6504 708.5615)" font-family="'Tahoma'" font-size="11">632HB</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M724.75,645.4v2.55c0,0.533-0.184,1-0.55,1.399
+			c-0.4,0.4-0.867,0.601-1.4,0.601c-0.104,0-0.203-0.009-0.3-0.025c-0.434-0.056-0.8-0.248-1.1-0.575
+			c-0.367-0.399-0.551-0.866-0.551-1.399v-2.55c0-0.534,0.184-1,0.551-1.4c0.366-0.366,0.833-0.55,1.399-0.55
+			c0.533,0,1,0.184,1.4,0.55C724.566,644.4,724.75,644.866,724.75,645.4z"/>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			722.5,650.65 722.65,706.4 722.7,722.75 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 706.3496 734.2607)" font-family="'Tahoma'" font-size="11">632JB</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M767.6,666h-2.149c-0.467,0-0.867-0.15-1.2-0.45
+			c-0.3-0.3-0.45-0.666-0.45-1.1v-3.75c0-0.4,0.15-0.783,0.45-1.15c0.333-0.3,0.733-0.45,1.2-0.45h4.899
+			c0.467,0,0.851,0.15,1.15,0.45c0.333,0.367,0.5,0.75,0.5,1.15v3.75c0,0.434-0.167,0.8-0.5,1.1c-0.3,0.3-0.684,0.45-1.15,0.45
+			H767.6z"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="767.6" y1="666" x2="781.3" y2="695.85"/>
+	</g>
+	<text transform="matrix(1 0 0 1 766.9502 707.0107)" font-family="'Tahoma'" font-size="11">625BB</text>
+</g>
+<g>
+	<g>
+		<rect x="796.05" y="227.95" fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" width="15.4" height="5.8"/>
+		
+			<rect x="796.05" y="227.95" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#1A171B" stroke-width="0.5" stroke-miterlimit="6.92" width="15.4" height="5.8"/>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			811.95,231.15 818.675,231.75 818.8,231.75 846.05,234.2 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 851.0498 237.8467)" font-family="'Tahoma'" font-size="10">643AR</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="793.95,245.65 793.65,240.85 796.05,240.8 
+			796.35,245.55 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="796.7" y1="243.4" x2="848.9" y2="248.3"/>
+	</g>
+	<text transform="matrix(1 0 0 1 851.9004 251.9463)" font-family="'Tahoma'" font-size="10">643BR</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="787.45,241.125 790.35,240.95 790.55,245.85 
+			787.45,245.95 787.2,241.15 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="775.6" y1="223.75" x2="787.45" y2="241.125"/>
+	</g>
+	<text transform="matrix(1 0 0 1 758.9502 215.3965)" font-family="'Tahoma'" font-size="10">643CR</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="779.2,246.15 777.2,246.25 774.75,246.35 774.55,241.55 
+			779,241.4 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="777.2" y1="246.25" x2="817.2" y2="298.9"/>
+	</g>
+	<text transform="matrix(1 0 0 1 818.7998 303.0464)" font-family="'Tahoma'" font-size="10">643DR</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="770.85,241.6 771.15,246.4 768.95,246.475 
+			766.75,246.55 766.4,241.7 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="768.95" y1="246.475" x2="813.95" y2="318.15"/>
+	</g>
+	<text transform="matrix(1 0 0 1 800.4004 329.7466)" font-family="'Tahoma'" font-size="10">643ER</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="719.1,242.9 723.55,242.75 723.75,247.5 719.3,247.7 		
+			"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="721.7" y1="241.8" x2="726.45" y2="221.6"/>
+	</g>
+	<text transform="matrix(1 0 0 1 711.0498 213.2466)" font-family="'Tahoma'" font-size="10">643FR</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="711,243.05 715.45,242.9 715.65,247.65 711.2,247.85 		
+			"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="713.45" y1="248.1" x2="745.5" y2="293.4"/>
+	</g>
+	<text transform="matrix(1 0 0 1 747.8496 297.2964)" font-family="'Tahoma'" font-size="10">643GR</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="697.25,243.3 703,243.2 703.2,247.95 697.5,248.15 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="700.45" y1="248.4" x2="735.7" y2="309.95"/>
+	</g>
+	<text transform="matrix(1 0 0 1 737.7002 314.3467)" font-family="'Tahoma'" font-size="10">643HR</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="691.9,248.3 689.95,248.4 687.45,248.55 687.25,243.75 
+			691.7,243.55 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="689.95" y1="248.4" x2="710" y2="336.8"/>
+	</g>
+	<text transform="matrix(1 0 0 1 696.25 347.6963)" font-family="'Tahoma'" font-size="10">643KR</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="694.3,243.35 697.25,243.3 697.45,248.15 695.7,248.2 
+			694.6,248.25 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="695.7" y1="248.2" x2="723.05" y2="316.8"/>
+	</g>
+	<text transform="matrix(1 0 0 1 710.5498 327.6963)" font-family="'Tahoma'" font-size="10">643JR</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="689.2,228.15 689.2,233.8 684.6,233.75 684.6,233.65 
+			684.55,228.15 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="684.6" y1="233.65" x2="666.7" y2="267.65"/>
+	</g>
+	<text transform="matrix(1 0 0 1 651.3496 277.7964)" font-family="'Tahoma'" font-size="10">632RT</text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="641.15,241.85 634.4,241.875 627.15,241.9 627.15,236.9 
+			641.15,236.85 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="634.4" y1="241.875" x2="654" y2="305.9"/>
+	</g>
+	<text transform="matrix(1 0 0 1 636.9004 316.9609)"><tspan x="0" y="0" font-family="'Tahoma'" font-size="10">642AR</tspan><tspan x="28.579" y="0" font-family="'Tahoma'" font-size="11">*</tspan></text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="620.55,241.85 613.55,241.875 606.6,241.9 606.55,236.9 
+			620.55,236.85 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="613.55" y1="241.875" x2="601.95" y2="288.75"/>
+	</g>
+	<text transform="matrix(1 0 0 1 586.5498 298.5317)"><tspan x="0" y="0" font-family="'Tahoma'" font-size="9">642BR*</tspan><tspan x="0" y="8" font-family="'Tahoma'" font-size="9">642EB*</tspan></text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="603.15,234.45 601.375,234.425 599.15,234.4 
+			599.15,230.5 603.15,230.5 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="601.375" y1="234.425" x2="563.5" y2="301.75"/>
+	</g>
+	<text transform="matrix(1 0 0 1 548.6504 312.3965)" font-family="'Tahoma'" font-size="10">632TT</text>
+</g>
+<g>
+	
+		<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="562.6" y1="234.4" x2="538.95" y2="277.9"/>
+	<text transform="matrix(1 0 0 1 523.5 288.8467)" font-family="'Tahoma'" font-size="10">632UT</text>
+	<g>
+		<rect x="560.6" y="230.45" fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" width="4" height="3.95"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="529.15,237.25 529.15,242.2 522.15,242.2 515.15,242.2 
+			515.15,237.25 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="522.15" y1="242.2" x2="506.3" y2="325.05"/>
+	</g>
+	<text transform="matrix(1 0 0 1 489.4502 335.6963)"><tspan x="0" y="0" font-family="'Tahoma'" font-size="10">642CR</tspan><tspan x="28.589" y="0" font-family="'Tahoma'" font-size="9">*</tspan></text>
+</g>
+<g>
+	<g>
+		<rect x="446.5" y="237.35" fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" width="14" height="5"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="453.5" y1="243.35" x2="468.95" y2="290.9"/>
+	</g>
+	<text transform="matrix(1 0 0 1 457.25 300.082)"><tspan x="0" y="0" font-family="'Tahoma'" font-size="9">642DR*</tspan><tspan x="0" y="8" font-family="'Tahoma'" font-size="9">642FB*</tspan></text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="378.2,236.65 390.2,236.65 390.2,241.65 386.2,241.65 
+			386.2,238.5 382.65,238.5 382.65,241.65 378.2,241.65 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="384.2" y1="239.15" x2="366.6" y2="290.7"/>
+	</g>
+	<text transform="matrix(1 0 0 1 350.75 300.082)"><tspan x="0" y="0" font-family="'Tahoma'" font-size="9">641AR*</tspan><tspan x="0" y="8" font-family="'Tahoma'" font-size="9">641BB*</tspan></text>
+</g>
+<g>
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" points="308.85,241.65 308.85,236.65 320.85,236.65 
+			320.85,241.65 316.85,241.65 316.85,238.5 313.3,238.5 313.3,241.65 		"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="314.85" y1="239.15" x2="314.95" y2="290.7"/>
+	</g>
+	<text transform="matrix(1 0 0 1 298.3501 299.582)"><tspan x="0" y="0" font-family="'Tahoma'" font-size="9">641CR*</tspan><tspan x="0" y="8" font-family="'Tahoma'" font-size="9">641DB*</tspan></text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M238.55,195.8c1.633,0,3.034,0.583,4.2,1.75
+			c1.167,1.167,1.75,2.567,1.75,4.2s-0.583,3.033-1.75,4.2c-1.167,1.167-2.567,1.75-4.2,1.75h-4.85c-1.667,0-3.083-0.583-4.25-1.75
+			c-1.167-1.167-1.75-2.567-1.75-4.2c0-1.059,0.242-2.017,0.725-2.875c0.273-0.473,0.615-0.915,1.025-1.325
+			c1.2-1.167,2.617-1.75,4.25-1.75H238.55z"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="228.425" y1="198.875" x2="218.5" y2="193.9"/>
+	</g>
+	<text transform="matrix(1 0 0 1 186.2002 196.7109)" font-family="'Tahoma'" font-size="11">521AT</text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M271.05,195.95c1.7,0,3.15,0.566,4.35,1.7
+			c1.2,1.133,1.8,2.5,1.8,4.1s-0.6,2.967-1.8,4.1c-1.2,1.133-2.65,1.7-4.35,1.7h-16.6c-1.7,0-3.15-0.566-4.35-1.7
+			c-1.2-1.133-1.8-2.5-1.8-4.1s0.6-2.967,1.8-4.1c1.2-1.133,2.65-1.7,4.35-1.7h7.05H271.05z"/>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="261.5" y1="195.95" x2="261.5" y2="189.4"/>
+	</g>
+	<text transform="matrix(1 0 0 1 246.3999 185.3613)" font-family="'Tahoma'" font-size="11">621BT</text>
+</g>
+<g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M286.35,195.8h25.2c1.6,0,2.967,0.583,4.1,1.75
+		c1.133,1.133,1.7,2.5,1.7,4.1c0,1.633-0.567,3.017-1.7,4.15c-1.133,1.167-2.5,1.75-4.1,1.75h-25.2c-1.6,0-2.967-0.583-4.1-1.75
+		c-1.1-1.133-1.65-2.517-1.65-4.15c0-1.6,0.55-2.967,1.65-4.1C283.383,196.383,284.75,195.8,286.35,195.8z"/>
+	<text transform="matrix(1 0 0 1 282.75 205.7109)" font-family="'Tahoma'" font-size="11">622AT</text>
+</g>
+<g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M325.8,195.8H351c1.567,0,2.917,0.583,4.05,1.75
+		c1.133,1.133,1.7,2.5,1.7,4.1c0,1.633-0.567,3.017-1.7,4.15c-1.133,1.167-2.483,1.75-4.05,1.75h-25.2c-1.6,0-2.966-0.583-4.1-1.75
+		c-1.133-1.133-1.7-2.517-1.7-4.15c0-1.6,0.567-2.967,1.7-4.1C322.833,196.383,324.2,195.8,325.8,195.8z"/>
+	<text transform="matrix(1 0 0 1 322.5 205.9609)" font-family="'Tahoma'" font-size="11">622BT</text>
+</g>
+<g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M365.45,195.9h27.35c1.733,0,3.2,0.583,4.4,1.75
+		c1.233,1.133,1.85,2.5,1.85,4.1c0,1.633-0.617,3.017-1.85,4.15c-1.2,1.167-2.667,1.75-4.4,1.75h-27.35c-1.733,0-3.2-0.583-4.4-1.75
+		c-1.233-1.133-1.85-2.517-1.85-4.15c0-1.6,0.617-2.967,1.85-4.1C362.25,196.483,363.717,195.9,365.45,195.9z"/>
+	<text transform="matrix(1 0 0 1 363.5 205.811)" font-family="'Tahoma'" font-size="11">622CT</text>
+</g>
+<g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M427.85,195.65c1.633,0,3.033,0.583,4.2,1.75
+		c1.167,1.167,1.75,2.567,1.75,4.2s-0.583,3.033-1.75,4.2c-1.167,1.167-2.566,1.75-4.2,1.75H406c-1.633,0-3.033-0.583-4.2-1.75
+		c-1.167-1.167-1.75-2.566-1.75-4.2s0.583-3.033,1.75-4.2c1.167-1.167,2.567-1.75,4.2-1.75H427.85z"/>
+	<text transform="matrix(1 0 0 1 401.0498 205.4609)" font-family="'Tahoma'" font-size="11">623AT</text>
+</g>
+<g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M440.05,196.85c1.2-1.067,2.6-1.567,4.2-1.5l38.6,2.1
+		c1.634,0.1,2.983,0.75,4.051,1.95c1.066,1.2,1.566,2.617,1.5,4.25c-0.101,1.6-0.75,2.95-1.95,4.05c-1.2,1.066-2.617,1.566-4.25,1.5
+		l-38.55-2.1c-1.633-0.1-2.983-0.75-4.05-1.95c-1.1-1.2-1.6-2.617-1.5-4.25C438.167,199.3,438.817,197.95,440.05,196.85z"/>
+	<text transform="matrix(0.9983 0.0578 -0.0578 0.9983 447.4907 205.0156)" font-family="'Tahoma'" font-size="10.965">624AT</text>
+</g>
+<g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M521.75,199.75c1.634,0.1,2.983,0.767,4.05,2
+		c1.101,1.2,1.601,2.6,1.5,4.2c-0.066,1.633-0.717,2.983-1.95,4.05c-1.199,1.067-2.6,1.567-4.199,1.5l-25.7-1.4
+		c-1.634-0.067-2.983-0.717-4.05-1.95c-1.067-1.2-1.567-2.6-1.5-4.2c0.1-1.633,0.75-2.983,1.949-4.05c1.2-1.1,2.617-1.6,4.25-1.5
+		L521.75,199.75z"/>
+	<text transform="matrix(0.9983 0.0578 -0.0578 0.9983 492.6416 208.3154)" font-family="'Tahoma'" font-size="10.965">624BT</text>
+</g>
+<g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M560.25,202.35c1.634,0.066,2.983,0.717,4.05,1.95
+		c1.066,1.2,1.566,2.617,1.5,4.25c-0.1,1.6-0.75,2.95-1.95,4.05c-1.199,1.066-2.616,1.566-4.25,1.5l-25.649-1.4
+		c-1.634-0.1-2.983-0.75-4.05-1.95c-1.101-1.2-1.601-2.617-1.5-4.25c0.066-1.6,0.716-2.95,1.949-4.05c1.2-1.067,2.601-1.567,4.2-1.5
+		L560.25,202.35z"/>
+	<text transform="matrix(0.9983 0.0578 -0.0578 0.9983 530.8906 210.8657)" font-family="'Tahoma'" font-size="10.965">624CT</text>
+</g>
+<g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M572.3,203.25l25.65,1.4c1.633,0.067,2.983,0.717,4.05,1.95
+		c1.1,1.2,1.6,2.6,1.5,4.2c-0.066,1.633-0.717,2.983-1.95,4.05c-1.2,1.1-2.6,1.6-4.2,1.5L571.65,215
+		c-1.634-0.1-2.983-0.75-4.051-1.95c-1.066-1.233-1.566-2.65-1.5-4.25c0.101-1.633,0.75-2.983,1.95-4.05
+		S570.667,203.183,572.3,203.25z"/>
+	<text transform="matrix(0.9983 0.0578 -0.0578 0.9983 568.4902 212.665)" font-family="'Tahoma'" font-size="10.965">624DT</text>
+</g>
+<g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M635.15,218.5l-25.7-1.4c-1.601-0.067-2.95-0.717-4.05-1.95
+		c-1.067-1.2-1.567-2.617-1.5-4.25c0.1-1.6,0.75-2.933,1.949-4c1.2-1.1,2.617-1.6,4.25-1.5l25.65,1.35
+		c1.634,0.1,2.983,0.75,4.05,1.95c1.101,1.2,1.601,2.617,1.5,4.25c-0.066,1.6-0.717,2.95-1.95,4.05
+		C638.15,218.067,636.75,218.567,635.15,218.5z"/>
+	<text transform="matrix(0.9983 0.0578 -0.0578 0.9983 606.3906 215.5654)" font-family="'Tahoma'" font-size="10.965">624ET</text>
+</g>
+<g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M679.15,215.4c-0.067,1.6-0.717,2.95-1.95,4.05
+		c-1.2,1.066-2.617,1.566-4.25,1.5l-25.65-1.4c-1.633-0.1-2.983-0.75-4.05-1.95c-1.066-1.2-1.566-2.617-1.5-4.25
+		c0.1-1.6,0.75-2.95,1.95-4.05c1.2-1.066,2.616-1.566,4.25-1.5l25.649,1.4c1.634,0.066,2.983,0.716,4.051,1.95
+		C678.75,212.35,679.25,213.767,679.15,215.4z"/>
+	<text transform="matrix(0.9983 0.0578 -0.0578 0.9983 644.9902 217.9653)" font-family="'Tahoma'" font-size="10.965">624FT</text>
+</g>
+<g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M694.4,221.45c-1.801,0.433-3.467,0.617-5,0.55l-2.801-0.15
+		c-1.6-0.067-2.949-0.717-4.05-1.95c-1.066-1.2-1.566-2.6-1.5-4.2c0.101-1.633,0.75-2.983,1.95-4.05
+		c1.233-1.066,2.65-1.566,4.25-1.5l2.8,0.1c3.967,0.2,6.9,1.217,8.8,3.05c0.934,0.9,1.417,1.934,1.45,3.1
+		c0.033,1.367-0.6,2.5-1.899,3.4C697.4,220.467,696.066,221.017,694.4,221.45z"/>
+	<text transform="matrix(1 0 0 1 680.5996 163.311)" font-family="'Tahoma'" font-size="11">625AT</text>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#1A171B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="690.2" y1="210" x2="695.1" y2="168.15"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#B3E1FF" d="M822.2,263.825c-0.646,2.082-1.812,3.957-3.5,5.625
+			c-2.767,2.8-6.05,4.2-9.851,4.2h-0.05c-3.8,0-7.083-1.4-9.85-4.2c-0.367-0.333-0.7-0.667-1-1c-0.601-0.7-1.117-1.45-1.55-2.25
+			c-1.034-1.967-1.551-4.133-1.551-6.5c0-3.9,1.367-7.233,4.101-10c2.7-2.667,5.916-4.017,9.649-4.05c0.101,0,0.167,0,0.2,0h0.05
+			c3.801,0,7.084,1.35,9.851,4.05c2.733,2.767,4.1,6.1,4.1,10C822.8,261.153,822.6,262.528,822.2,263.825z"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M822.2,263.825c-0.646,2.082-1.812,3.957-3.5,5.625c-2.767,2.8-6.05,4.2-9.851,4.2h-0.05c-3.8,0-7.083-1.4-9.85-4.2
+			c-0.367-0.333-0.7-0.667-1-1c-0.601-0.7-1.117-1.45-1.55-2.25c-1.034-1.967-1.551-4.133-1.551-6.5c0-3.9,1.367-7.233,4.101-10
+			c2.7-2.667,5.916-4.017,9.649-4.05c0.101,0,0.167,0,0.2,0h0.05c3.801,0,7.084,1.35,9.851,4.05c2.733,2.767,4.1,6.1,4.1,10
+			C822.8,261.153,822.6,262.528,822.2,263.825z"/>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FF0000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			822.2,263.825 866.25,273.05 866.25,331.55 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 848.8594 343.4609)"><tspan x="0" y="0" font-family="'Tahoma'" font-size="11">STATIC</tspan><tspan x="-14.604" y="12.65" font-family="'Tahoma'" font-size="11">DISCHARGER</tspan></text>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#B3E1FF" d="M823.975,620.775c0.051,0.464,0.075,0.938,0.075,1.425
+			c0,3.8-1.366,7.05-4.1,9.75c-2.767,2.8-6.05,4.2-9.851,4.2h-0.05c-3.8,0-7.083-1.4-9.85-4.2c-0.367-0.334-0.7-0.667-1-1
+			c-0.601-0.7-1.117-1.45-1.55-2.25c-1.034-1.967-1.551-4.134-1.551-6.5c0-3.9,1.367-7.233,4.101-10
+			c2.7-2.667,5.916-4.017,9.649-4.05c0.101,0,0.167,0,0.2,0h0.05c3.801,0,7.084,1.35,9.851,4.05
+			C822.343,614.622,823.685,617.48,823.975,620.775z"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M823.975,620.775c0.051,0.464,0.075,0.938,0.075,1.425c0,3.8-1.366,7.05-4.1,9.75c-2.767,2.8-6.05,4.2-9.851,4.2h-0.05
+			c-3.8,0-7.083-1.4-9.85-4.2c-0.367-0.334-0.7-0.667-1-1c-0.601-0.7-1.117-1.45-1.55-2.25c-1.034-1.967-1.551-4.134-1.551-6.5
+			c0-3.9,1.367-7.233,4.101-10c2.7-2.667,5.916-4.017,9.649-4.05c0.101,0,0.167,0,0.2,0h0.05c3.801,0,7.084,1.35,9.851,4.05
+			C822.343,614.622,823.685,617.48,823.975,620.775z"/>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FF0000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			823.975,620.775 864,611.3 864,556.9 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 845.8594 540.1113)"><tspan x="0" y="0" font-family="'Tahoma'" font-size="11">STATIC</tspan><tspan x="-14.604" y="12.65" font-family="'Tahoma'" font-size="11">DISCHARGER</tspan></text>
+</g>
+<g id="border">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M818.8,231.75l0.025,0.1l0.125,0.85
+			c-0.075-0.333-0.167-0.65-0.275-0.95H818.8z"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#1A171B" stroke-width="0.5" stroke-miterlimit="6.92" d="
+			M680.45,189.7l-0.7,9.9l94.25,5.75l0.4-6.55l-93.95-9.15V189.7l-82.95-7.95 M804.125,201.725l0.625,0.1V201.8L804.125,201.725
+			l-8.075-0.925v26.9h14.45c4.286-0.178,6.986,1.114,8.1,3.875c0.028,0.056,0.053,0.115,0.075,0.175 M806.75,202.15l-2-0.325
+			c0.442,6.951,4.159,10.809,11.15,11.575l0.125,0.75l-0.575-4.05 M774,205.35l21.6,1.3l0.101-5.85l-21.25-2h-0.05 M818.8,231.75
+			l-2.774-17.6 M787.45,245.95l3.1-0.1l-0.2-4.9l-3.149,0.2L787.45,245.95z M770.85,241.6l-4.449,0.1l0.35,4.85l4.4-0.15
+			L770.85,241.6z M774.55,241.55l0.2,4.8l4.45-0.2l-0.2-4.75L774.55,241.55z M793.65,240.875l0.3,4.775l2.399-0.1l-0.3-4.75
+			l-1.2,0.025l-1.199,0.025V240.875z M818.825,231.85l0.125,0.85c-0.075-0.333-0.167-0.65-0.275-0.95 M698.4,219.8
+			c1.3-0.9,1.933-2.033,1.899-3.4c-0.033-1.167-0.517-2.2-1.45-3.1c-1.899-1.833-4.833-2.85-8.8-3.05l-2.8-0.1
+			c-1.6-0.066-3.017,0.434-4.25,1.5c-1.2,1.067-1.85,2.417-1.95,4.05c-0.066,1.6,0.434,3,1.5,4.2c1.101,1.233,2.45,1.883,4.05,1.95
+			L689.4,222c1.533,0.067,3.199-0.117,5-0.55C696.066,221.017,697.4,220.467,698.4,219.8z M689.2,228.15h-4.65l0.05,5.6l4.601,0.05
+			V228.15z M691.7,243.55l0.2,4.75l-4.45,0.25l-0.2-4.8L691.7,243.55z M697.25,243.4v-0.1l-2.95,0.05v0.125l0.3,4.775l2.851-0.1
+			l-0.101-2.425L697.25,243.4z M703,243.25v-0.05l-5.75,0.1 M714.025,242.95l-2.5,0.075L711,243.05l0.2,4.8l4.45-0.2l-0.2-4.725
+			V242.9L714.025,242.95z M719.1,242.9l0.2,4.8l4.45-0.2l-0.2-4.75L719.1,242.9z M703,243.25l0.2,4.7l-5.7,0.2l-0.15-2.425
+			 M679.15,215.4c0.1-1.633-0.4-3.05-1.5-4.25c-1.067-1.233-2.417-1.883-4.051-1.95l-25.649-1.4c-1.634-0.066-3.05,0.434-4.25,1.5
+			c-1.2,1.1-1.851,2.45-1.95,4.05c-0.066,1.633,0.434,3.05,1.5,4.25c1.066,1.2,2.417,1.85,4.05,1.95l25.65,1.4
+			c1.633,0.066,3.05-0.434,4.25-1.5C678.434,218.35,679.083,217,679.15,215.4z M818.825,231.85l-0.025-0.1 M724.8,641.7v-7.4
+			c0-0.866,0.3-1.616,0.9-2.25c0.633-0.6,1.383-0.899,2.25-0.899c0.866,0,1.616,0.3,2.25,0.899c0.633,0.634,0.95,1.384,0.95,2.25
+			v7.4v5.3c0,0.866-0.317,1.6-0.95,2.2c-0.634,0.6-1.384,0.899-2.25,0.899c-0.867,0-1.617-0.3-2.25-0.899
+			c-0.601-0.601-0.9-1.334-0.9-2.2V641.7z M796.55,649.35h16.2c2.5,0.067,4.283-0.316,5.35-1.149c0.82-0.624,1.562-1.874,2.226-3.75
+			L817,666.8 M766.55,643.4c-0.5,0-0.967,0.183-1.399,0.55c-0.367,0.399-0.551,0.866-0.551,1.399v2.601
+			c0,0.533,0.184,0.983,0.551,1.35c0.433,0.4,0.899,0.601,1.399,0.601c0.566,0,1.033-0.2,1.4-0.601
+			c0.366-0.366,0.55-0.816,0.55-1.35v-2.601c0-0.533-0.184-1-0.55-1.399c-0.28-0.28-0.621-0.455-1.025-0.525
+			C766.81,643.408,766.685,643.4,766.55,643.4z M770.875,665.925c0.235-0.068,0.443-0.193,0.625-0.375c0.333-0.3,0.5-0.666,0.5-1.1
+			v-3.75c0-0.4-0.167-0.783-0.5-1.15c-0.3-0.3-0.684-0.45-1.15-0.45h-4.899c-0.467,0-0.867,0.15-1.2,0.45
+			c-0.3,0.367-0.45,0.75-0.45,1.15v3.75c0,0.434,0.15,0.8,0.45,1.1c0.333,0.3,0.733,0.45,1.2,0.45h1.3h3.6
+			C770.534,666,770.71,665.975,770.875,665.925z M734.75,643.95c-0.218-0.2-0.46-0.342-0.725-0.425
+			c-0.208-0.084-0.433-0.125-0.676-0.125c-0.533,0-1,0.183-1.399,0.55c-0.4,0.399-0.601,0.866-0.601,1.399v2.601
+			c0,0.533,0.2,0.983,0.601,1.35c0.399,0.4,0.866,0.601,1.399,0.601c0.534,0,1-0.2,1.4-0.601c0.366-0.366,0.55-0.816,0.55-1.35
+			v-2.601C735.3,644.816,735.116,644.35,734.75,643.95z M692.025,641.7l0.024,5.25c0.033,0.967-0.217,1.816-0.75,2.55
+			c-0.467,0.7-1.066,1.05-1.8,1.05h-1.25c-0.733,0-1.333-0.35-1.8-1.05c-0.5-0.733-0.75-1.583-0.75-2.55v-5.25 M796.55,652.85v-3.5
+			 M767.2,676.1l-89.4,5.45l-0.2,2.525l-0.55,7.5v0.075l45.625-4.4h0.05l44.476-4.3V676.1v-0.05l29.3-1.85v5.899h0.05v-27.25
+			 M796.5,680.1l-29.25,2.851h-0.05 M792.9,647.95v-2.601c0-0.533-0.184-1-0.551-1.399c-0.433-0.367-0.899-0.55-1.399-0.55
+			c-0.533,0-1,0.183-1.4,0.55c-0.366,0.399-0.55,0.866-0.55,1.399v2.601c0,0.533,0.184,0.983,0.55,1.35
+			c0.4,0.4,0.867,0.601,1.4,0.601c0.5,0,0.967-0.2,1.399-0.601C792.717,648.934,792.9,648.483,792.9,647.95z M775.15,645.35
+			c0-0.354-0.084-0.68-0.25-0.975c-0.077-0.149-0.178-0.291-0.301-0.425c-0.433-0.367-0.899-0.55-1.399-0.55
+			c-0.533,0-1.017,0.183-1.45,0.55c-0.366,0.399-0.55,0.866-0.55,1.399v2.601c0,0.533,0.184,0.983,0.55,1.35
+			c0.434,0.4,0.917,0.601,1.45,0.601c0.5,0,0.967-0.2,1.399-0.601c0.367-0.366,0.551-0.816,0.551-1.35V645.35z M804.85,679.225
+			v0.025l-1.35,0.15l-6.95,0.699 M816.35,670.95l0.65-4.15c-5.167-0.066-8.5,0.75-10,2.45c-0.665,0.748-1.173,1.948-1.525,3.6
+			c-0.365,1.67-0.574,3.795-0.625,6.375 M692.025,641.7L692,638.75h-0.9h-4.449h-0.95v2.95 M705.55,641.7v-6.851
+			c0-0.933,0.3-1.733,0.9-2.399c0.633-0.667,1.399-1,2.3-1c0.833,0,1.583,0.333,2.25,1c0.634,0.666,0.95,1.467,0.95,2.399v6.851
+			 M691.1,638.75v-7.7h-4.449v7.7 M649.05,639.7l31.25,0.1l0.351-5.899l-32.2-0.9L649.05,639.7z M649.125,652.85
+			c-0.013,1.45-0.055,2.9-0.125,4.351c-0.1,2.5-0.917,4.434-2.45,5.8c-1.434,1.233-3.283,1.85-5.55,1.85
+			c-2.167,0-3.95-0.733-5.35-2.199c-1.334-1.467-2.084-3.434-2.25-5.9c-0.065-1.299-0.107-2.599-0.125-3.9
+			c-0.049-3.208,0.043-6.425,0.274-9.649c0.142-1.948,0.334-3.898,0.575-5.851 M536.4,652.85c-0.022,1.583-0.072,3.166-0.15,4.75
+			c-0.134,2.9-1.05,5.101-2.75,6.601c-1.6,1.434-3.684,2.149-6.25,2.149c-2.434,0-4.434-0.833-6-2.5
+			c-1.533-1.666-2.384-3.916-2.55-6.75c-0.071-1.415-0.121-2.831-0.15-4.25 M677.05,691.575l-74.1,7.149v0.075l-42.05,4.25h-0.051
+			l-94.449,9.075v0.225l-13.95,1.351l-8.625,0.825L436.7,715.2v-18.7l28.899-1.775V694.5l96.051-5.9v-0.05l41.85-2.6v0.149
+			l74.25-4.55l-0.15,2.525 M724.75,647.95v-2.55c0-0.534-0.184-1-0.55-1.4c-0.4-0.366-0.867-0.55-1.4-0.55
+			c-0.566,0-1.033,0.184-1.399,0.55c-0.367,0.4-0.551,0.866-0.551,1.4v2.55c0,0.533,0.184,1,0.551,1.399
+			c0.3,0.327,0.666,0.52,1.1,0.575c0.097,0.017,0.196,0.025,0.3,0.025c0.533,0,1-0.2,1.4-0.601
+			C724.566,648.95,724.75,648.483,724.75,647.95z M702,644.2c-0.4-0.367-0.866-0.55-1.4-0.55c-0.566,0-1.033,0.183-1.399,0.55
+			c-0.367,0.434-0.55,0.899-0.55,1.399v2.601c0,0.566,0.183,1.033,0.55,1.399c0.366,0.367,0.833,0.551,1.399,0.551
+			c0.534,0,1-0.184,1.4-0.551c0.366-0.366,0.55-0.833,0.55-1.399V645.6C702.55,645.1,702.366,644.634,702,644.2z M557.25,186.675
+			l0.6-9.025l-92.5-8.85v0.05l-1.1,17.45h0.05l92.55,5.8L557.25,186.675l-0.3,5.425l39.8,2.5l0.15-2.1l0.5-10.75h0.1v-0.05
+			l-39.65-4.05 M596.9,192.5l-0.101,2l82.95,5.1 M351,195.8h-25.2c-1.6,0-2.966,0.583-4.1,1.75c-1.133,1.133-1.7,2.5-1.7,4.1
+			c0,1.633,0.567,3.017,1.7,4.15c1.133,1.167,2.5,1.75,4.1,1.75H351c1.567,0,2.917-0.583,4.05-1.75c1.133-1.133,1.7-2.517,1.7-4.15
+			c0-1.6-0.567-2.967-1.7-4.1C353.917,196.383,352.567,195.8,351,195.8z M297.55,158.7v17.85l99.85,6.275l0.25,0.025l-0.35-18.05
+			v-0.1l-99.75-6.7v0.45 M397.4,197.85c-0.064-0.07-0.131-0.137-0.2-0.2c-1.2-1.167-2.667-1.75-4.4-1.75h-27.35
+			c-1.733,0-3.2,0.583-4.4,1.75c-1.233,1.133-1.85,2.5-1.85,4.1c0,1.633,0.617,3.017,1.85,4.15c1.2,1.167,2.667,1.75,4.4,1.75h27.35
+			c1.733,0,3.2-0.583,4.4-1.75c0.068-0.063,0.135-0.129,0.2-0.2c1.1-1.091,1.65-2.408,1.65-3.95
+			C399.05,200.239,398.5,198.939,397.4,197.85z M440.05,196.85c-1.233,1.1-1.883,2.45-1.95,4.05c-0.1,1.633,0.4,3.05,1.5,4.25
+			c1.066,1.2,2.417,1.85,4.05,1.95l38.55,2.1c1.633,0.066,3.05-0.434,4.25-1.5c1.2-1.1,1.85-2.45,1.95-4.05
+			c0.066-1.633-0.434-3.05-1.5-4.25c-1.067-1.2-2.417-1.85-4.051-1.95l-38.6-2.1C442.65,195.283,441.25,195.783,440.05,196.85z
+			 M427.85,195.65H406c-1.633,0-3.033,0.583-4.2,1.75c-1.167,1.167-1.75,2.567-1.75,4.2s0.583,3.033,1.75,4.2
+			c1.167,1.167,2.567,1.75,4.2,1.75h21.85c1.633,0,3.033-0.583,4.2-1.75c1.167-1.167,1.75-2.566,1.75-4.2s-0.583-3.033-1.75-4.2
+			C430.883,196.233,429.483,195.65,427.85,195.65z M465.35,168.85L438,166.2v18.55l26.1,1.55h0.15 M446.5,237.35v5h14v-5H446.5z
+			 M378.2,241.65h4.45v-3.15h3.55v3.15h4v-5h-12V241.65z M639.35,217c1.233-1.1,1.884-2.45,1.95-4.05
+			c0.101-1.633-0.399-3.05-1.5-4.25c-1.066-1.2-2.416-1.85-4.05-1.95l-25.65-1.35c-1.633-0.1-3.05,0.4-4.25,1.5
+			c-1.199,1.067-1.85,2.4-1.949,4c-0.067,1.633,0.433,3.05,1.5,4.25c1.1,1.233,2.449,1.883,4.05,1.95l25.7,1.4
+			C636.75,218.567,638.15,218.067,639.35,217z M627.15,240.4v1.5l14-0.05v-5l-14,0.05V240.4z M620.55,236.85l-14,0.05l0.05,5
+			l13.95-0.05v-1.25V236.85z M597.95,204.65l-25.65-1.4c-1.633-0.067-3.05,0.433-4.25,1.5s-1.85,2.417-1.95,4.05
+			c-0.066,1.6,0.434,3.017,1.5,4.25c1.067,1.2,2.417,1.85,4.051,1.95l25.699,1.35c1.601,0.1,3-0.4,4.2-1.5
+			c1.233-1.067,1.884-2.417,1.95-4.05c0.1-1.6-0.4-3-1.5-4.2C600.934,205.367,599.583,204.717,597.95,204.65z M599.15,230.5v3.9
+			l4,0.05v-3.95H599.15z M560.25,202.35l-25.7-1.4c-1.6-0.067-3,0.433-4.2,1.5c-1.233,1.1-1.883,2.45-1.949,4.05
+			c-0.101,1.633,0.399,3.05,1.5,4.25c1.066,1.2,2.416,1.85,4.05,1.95l25.649,1.4c1.634,0.066,3.051-0.434,4.25-1.5
+			c1.2-1.1,1.851-2.45,1.95-4.05c0.066-1.633-0.434-3.05-1.5-4.25C563.233,203.067,561.884,202.417,560.25,202.35z M529.15,237.25
+			h-14v4.95h14V237.25z M560.6,230.45v3.95h4v-3.95H560.6z M525.35,210c1.233-1.067,1.884-2.417,1.95-4.05
+			c0.101-1.6-0.399-3-1.5-4.2c-1.066-1.233-2.416-1.9-4.05-2l-25.65-1.35c-1.633-0.1-3.05,0.4-4.25,1.5
+			c-1.199,1.067-1.85,2.417-1.949,4.05c-0.067,1.6,0.433,3,1.5,4.2c1.066,1.233,2.416,1.883,4.05,1.95l25.7,1.4
+			C522.75,211.567,524.15,211.067,525.35,210z M229.45,197.55c-0.411,0.411-0.752,0.852-1.025,1.325
+			c-0.483,0.858-0.725,1.816-0.725,2.875c0,1.633,0.583,3.033,1.75,4.2c1.167,1.167,2.583,1.75,4.25,1.75h4.85
+			c1.633,0,3.034-0.583,4.2-1.75c1.167-1.167,1.75-2.567,1.75-4.2s-0.583-3.033-1.75-4.2c-1.167-1.167-2.567-1.75-4.2-1.75h-4.85
+			C232.067,195.8,230.65,196.383,229.45,197.55z M254.45,195.95c-1.7,0-3.15,0.566-4.35,1.7c-1.2,1.133-1.8,2.5-1.8,4.1
+			s0.6,2.967,1.8,4.1c1.2,1.133,2.65,1.7,4.35,1.7h16.6c1.7,0,3.15-0.566,4.35-1.7c1.2-1.133,1.8-2.5,1.8-4.1s-0.6-2.967-1.8-4.1
+			c-1.2-1.133-2.65-1.7-4.35-1.7H254.45z M311.55,195.8h-25.2c-1.6,0-2.967,0.583-4.1,1.75c-1.1,1.133-1.65,2.5-1.65,4.1
+			c0,1.633,0.55,3.017,1.65,4.15c1.133,1.167,2.5,1.75,4.1,1.75h25.2c1.6,0,2.967-0.583,4.1-1.75c1.133-1.133,1.7-2.517,1.7-4.15
+			c0-1.6-0.567-2.967-1.7-4.1C314.517,196.383,313.15,195.8,311.55,195.8z M317.85,236.65h-9v5h4.45v-3.15h3.55v3.15h4v-4.9v-0.1
+			H317.85z M293.55,639.1h99.75V625.15h-99.75V639.1z M296.15,704.8l99.65-6.3l-0.1,18l-99.65,6.8v-18.5 M466.4,712.125l-0.75,0.075
+			l-0.051-17.476 M624.175,637.25l9.95,0.1h0.125l0.8-4.75h-0.25l-10.8-0.25l0.1,4.9H624.175z M568.775,635.4l-0.025,4.05
+			l55.45,0.05l-0.025-2.25 M634.8,632.6c0.109-0.685,0.227-1.368,0.351-2.05c0.654-3.483,1.521-7.2,2.6-11.149
+			c0.968-3.484,2.101-7.15,3.4-11c3.066,7.666,5.25,15.733,6.55,24.199c1.043,6.75,1.518,13.5,1.425,20.25 M568.8,630.7l-11.6-0.2
+			 M557.15,635.35l11.625,0.051 M602.95,698.725l-0.25,0.025l0.75-12.65h0.05 M536.075,640.625c0.282,4.065,0.391,8.14,0.325,12.225
+			 M624,632.35l-55.2-1.649 M533.775,623.425c0.38,1.938,0.722,3.896,1.024,5.875c0.574,3.766,0.999,7.541,1.275,11.325
+			 M536.15,638.65l20.8,0.1v-8.25l-21.8-0.55C535.35,631.217,535.684,634.116,536.15,638.65z M523.875,613.125
+			c1.014-3.698,2.188-7.573,3.525-11.625c2.739,6.97,4.864,14.278,6.375,21.925 M436.65,638.95l79.85-0.05v-9.4l-79.85-2.45
+			 M518.925,640.75c0.346-4.603,0.938-9.22,1.775-13.85c0.23-1.27,0.488-2.569,0.774-3.9c0.658-3.137,1.458-6.429,2.4-9.875
+			 M518.925,640.75c-0.312,4.044-0.437,8.077-0.375,12.1 M560.85,703.05l0.801-14.45"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M794.85,240.825l-1.199,0.05l-3.301,0.075l-74.899,1.975l-1.425,0.025 M397.4,164.25V148.7l1-0.05l2.1,0.35l5.5,2.2l3.25,0.8
+			l3.5,0.15l4.2-0.4l6.1-1.25l6.55-0.65l3.4,0.6l1.4,0.55l3.5,1.75v13.75v61.6h358.15v12.7 M691.7,243.55l-11.351,0.3l0.601,11.5
+			l96.2-5.35l0.25,3.65l25.1-1.375l4.3-0.25l3.9-0.225l4.149-0.225l3.95-0.225c0.767-0.2,1.4-0.617,1.9-1.25
+			c0.5-0.667,0.75-1.4,0.75-2.2v-0.4l-2.625-15.65 M694.3,243.475l-2.6,0.075 M694.3,243.475l2.95-0.075 M703,243.25l-5.75,0.15
+			 M711.525,243.025L703,243.25 M663.7,236.55h-5.95 M653.95,236.6H648 M680.1,236.5h-3 M641.5,240.05l38.6-1.05l0.25,4.85
+			 M673.35,236.55h-5.899 M680.95,255.35l0.2,3.625l96.25-5.325 M808.2,628.85l3.899,0.226 M803.9,628.625l4.3,0.225 M645.35,619.85
+			l36.101,2l31.45,1.75l57.149,3.15l33.851,1.875 M712.9,623.6v5.351l56.85,3.1l0.3-5.3 M731.15,641.7h65.399 M820.325,644.45
+			l2.1-11.101l-0.024-0.399c0-0.834-0.25-1.566-0.75-2.2s-1.15-1.05-1.95-1.25l-3.45-0.2l-4.15-0.225 M766.75,666l4.125-0.075
+			 M724.8,641.7h-12.85h-6.4h-13.524 M685.7,641.7h-5.375l-0.15,2.75l-0.475,8.399h116.85 M804.85,679.225l-1.35,0.176 M685.7,641.7
+			h6.325 M654.7,627.3l-6-0.149 M664.6,627.65l-6.05-0.2 M678.05,628.1l3.05,0.101l0.051-1l0.3-5.351 M674.35,627.9l-6.05-0.15
+			 M680.325,641.7l0.774-13.5 M633.275,652.85H536.4 M518.55,652.85h-81.9v75.801l-4.95,2.3l-1.65,0.399l-3.35,0.15l-6.7-0.85
+			l-4.45-1.051l-4.2-0.35l-4.7,0.35l-2.15,0.601l-5.55,2.2l-0.95,0.25l-2.1,0.05V652.85H290h-5.7v0.301 M679.7,652.85h-30.575
+			 M680.175,644.45l-30.875-0.9 M681.15,627.2l31.75,1.75 M731.15,641.7H724.8 M297.55,158.45v0.25l-1.55,3.75l-2.3,3.75l-2.8,3.35
+			l-3.3,2.85l-3.7,2.4l-2.825,1.225l-0.525,0.225h0.7l-0.175-0.225 M437.9,166.5l-4.6,22.8c-0.867,1.4-2.15,2.1-3.85,2.1l-26.65-1.3
+			l-0.6-0.25l-0.5-0.35l-0.9-0.85l-0.35-0.5l-0.25-0.55l-0.2-0.65l-2.7-22.15 M397.4,205.7v-7.85v-15.025 M464.1,186.3l0.351,0.35
+			 M479.65,237.1h-5.95 M469.95,237.1l-5.95,0.05 M417.8,228.1h1.125l-0.575-0.05L417.8,228.1h-0.85l-2.1,0.2l-0.6,0.15l-1.7,0.65
+			l-1.7,0.95l-1.05,0.75l-2.6,2.55l-1.5,1.85l-2.65,4.5l-2.5,6.3l-1.65,6.05l-0.9,5.5l-0.6,9.4v16.25v20.45l0.35,0.05h2.45
+			l1.45-0.15l2.75-0.65l3.55-1.5l0.2-0.05v-2.8 M428.1,300.15v2.75l0.85-0.05l8.95-2.15v-28.3v-10.45l-1.15-8.8l-2.45-9.1
+			l-2.75-5.95l-2.25-3.55l-2.5-2.8l-1.1-0.95l-2.2-1.45l-2.25-0.9l-2.325-0.35 M411.05,247.45l-2-0.45h-0.55l-0.35,0.1v2.75
+			 M440.9,237.2l-3,0.05v16.55l82.8-2.2l-0.5-8.35l83.75-2.25l2.3-0.05 M437.9,237.25v-9.15h-18.975 M437.9,261.95v-8.15
+			 M428.1,269.45v-5.6 M428.1,260.4v-5.65 M428.1,251.25v-2.75l-3,0.95 M421.25,249.5l-0.55-0.05l-5.6-1.15 M408.15,258.9v-5.55
+			 M408.15,267.95v-5.55 M408.15,286v-5.5 M408.15,295.1v-5.6 M428.1,278.5v-5.6 M428.1,287.55V282 M428.1,296.65V291 M408.15,277
+			v-5.55 M371.65,236.75h-5.9 M295,236.75h-2.95v18.85H397.4v-18.85h-2.9 M397.4,236.75v-8.65H292.05v8.65 M397.4,228.1v-22.4
+			 M362.05,236.75h-5.85 M352.45,236.75h-5.85 M342.9,236.75H337 M333.35,236.75h-5.9 M292.05,255.6v8.95H397.4v-8.95 M397.4,266.95
+			v-2.4 M428.1,302.9l-1.6,0.1l-2.35-0.15l-6.05-1.5l-4.95-0.6l-2.45,0.1l-2.55,0.5 M416.95,228.1H397.4 M627.15,240.4l-6.601,0.2
+			 M586.15,236.75h-5.95 M576.5,236.8h-5.95 M605.55,236.75h-5.95 M595.9,236.75h-6 M641.15,270.75l3.399-9.75l-7.399,0.4
+			L641.15,270.75z M603.95,241l0.5,8.375l75.8-2.025 M537.8,236.9l-6,0.05 M566.8,236.8l-5.95,0.05 M557.15,236.85h-5.95
+			 M547.45,236.9h-6 M499,237.05h-5.95 M508.7,237l-5.95,0.05 M532.55,267.175l-8,0.45l4,12.075L532.55,267.175L637.15,261.4
+			 M604.45,249.375L520.7,251.6 M489.35,237.05l-5.949,0.05 M437.9,272.4l86.65-4.775 M290.05,157.55
+			c-3.267-0.267-6.033-1.65-8.3-4.15c-2.267-2.467-3.4-5.35-3.4-8.65l0.05-12.15l-0.25-0.1l-1.9-0.85L274,131l-4.6-0.3l-2.15,0.2
+			l-2.3,0.5l-5.2,1.7l-1.7,0.975 M278.15,132.5v-13.65 M281.25,176.25h13.3 M230.5,176.25h50.05 M292.05,228.1h-5.65v78.075
+			l5.65-3.625V283.2v-18.65 M320.85,236.75l-3-0.1 M323.75,236.75h-2.9 M304.6,236.75h-5.9 M229.5,304.8l1.8-0.225l0.6-15.175
+			l1.1-11.85l3.15-17.25v-32.2h-8.05 M236.15,262.35v14.15 M236.15,280v3.5 M236.15,261.9v-1.6l0.45,1.55l3.7,24.55l0.8,18.175
+			l19.75,4.175l7.8,0.8l9.7-0.25l6-1.8l2.05-1.325 M236.15,315.25v-11.275l-4.85,0.6 M241.1,304.575l-4.25-0.675l-0.7,0.075
+			 M236.15,318.8v3.5 M236.15,357.6v3.55 M236.15,364.65v14.1 M236.15,325.85v28.2 M236.15,287.05v16.925 M286.4,228.1h-50.25
+			 M236.5,527.2v14.55 M236.5,545.35v3.601 M236.5,581.55v-5.225l-0.25,0.024l-0.6,0.2l-2.1,0.101l-6.5-0.95 M236.5,632.35v20.5
+			h47.8v-78.5l-2.1-1.35l-2.9-1.05l-6.25-1.101l-6.6,0.051l-11.85,1.649l-17.45,3.75l-0.65,0.025 M236.5,585.25v3.55 M236.5,552.6
+			v23.726 M290,652.85V642.1V612.9v-15.4V578l-5.7-3.65 M321.85,612.9h-6 M312.25,612.9h-5.95 M302.6,612.9h-5.95 M292.95,612.9H290
+			 M236.5,625.05v3.65 M236.5,664.9v3.699 M236.5,661.3v-8.45h-10.9 M295.6,722.9l-1.7-4.051l-2.3-3.75l-2.8-3.35l-3.3-2.9
+			l-7.1-4.024l-41.9,0.149v3.476 M228.05,705l8.45-0.025 M236.5,712v29.05 M236.5,744.65v3.649 M236.5,751.9v14.55 M278.4,704.825
+			l17.65-0.025h0.1 M296.05,723.3l-7.9,0.55c-3.367,0.233-6.217,1.584-8.55,4.051c-2.3,2.5-3.45,5.433-3.45,8.8l0.05,0.7v11.5
+			l-2.15,1l-2.3,0.6l-4.6,0.35l-4.45-0.699l-0.65-0.226 M284.3,725.1V749.9 M290,724.2v25.7 M236.5,672.2v29 M236.5,592.45v29
+			 M436.65,652.85v-12.1v-1.8v-11.9v-6.75v-12v-28.45l-9.05-2.199h-4.8l-7.95,1.899l-4.35,0.3l-2.6-0.3l-1.4-0.399l-3.55-1.551
+			l-2.8-0.6l-3.95-0.15l-0.3,0.051v20.6v15.4V642.1v10.75 M478.75,621.65l-6-0.15 M469,621.35l-6-0.149 M459.15,621.1l-6-0.25
+			 M439.65,620.4l-3-0.101 M449.4,620.75l-6-0.2 M395.9,612.9h-3 M389.2,612.9h-5.85 M379.6,612.9h-5.9 M360.35,612.9h-5.95
+			 M350.7,612.9h-5.85 M341.1,612.9h-5.9 M331.45,612.9h-5.9 M370,612.9h-5.95 M625.4,626.4l-6-0.2 M615.6,626.05l-6-0.149
+			 M644.95,626.95l-6-0.101 M637.75,619.4l-106-5.851 M635.2,626.7l-6-0.2 M642,632.45l-5.85-0.101 M637.75,619.4l0.75,0.05
+			 M605.85,625.75l-6-0.2 M596.1,625.45l-6.05-0.15 M586.3,625.1l-6-0.149 M576.55,624.85l-6.05-0.25 M633.55,643.2l-97.475-2.575
+			 M537.45,623.55l-3.675-0.125l-2.325-0.075 M566.8,624.5l-6.05-0.15 M557,624.15l-6.05-0.15 M547.2,623.9l-6-0.2 M498.3,622.3
+			l-5.95-0.149 M517.9,622.95l-6-0.2 M518.95,629.2l-6-0.15 M523.875,613.125L436.65,608.3 M519.2,640.75h-0.275H436.65
+			 M518.55,652.85h0.851 M508.15,622.6l-6.051-0.1 M527.65,623.25l-6.176-0.25 M488.5,621.95l-6-0.15 M395.9,597.5H290 M290,642.1
+			h105.9 M397.4,283.2H292.05 M644.55,261l36.601-2.025"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FF0000" stroke-miterlimit="6.92" d="M802.5,252.275v13.775
+			 M806.8,252.025v13.425 M810.7,251.8v13.45 M814.85,251.575V264.9 M808.2,615.2v13.649 M812.1,629.075V615.6 M803.9,628.625v0.275
+			 M803.9,615.15v13.475 M816.25,615.65V629.3"/>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M815.45,210.1c-0.467-2.1-1.5-3.883-3.101-5.35c-1.6-1.467-3.466-2.333-5.6-2.6 M808.2,654.55c1.1,0,1.649,0.55,1.649,1.65v5.95
+			c0,1.1-0.55,1.649-1.649,1.649h-7.851c-1.1,0-1.649-0.55-1.649-1.649v-5.95c0-1.101,0.55-1.65,1.649-1.65H808.2z M804.85,679.225
+			L807.45,679c2.133-0.2,4.033-1.033,5.7-2.5c1.6-1.467,2.666-3.316,3.199-5.55 M443.3,167.05l-0.375,6.075l0.375,0.375l8.175,0.8
+			l0.426-6.45 M443.3,173.5l-0.4-0.05l0.025-0.325 M451.475,174.3l-0.175,2.8l9.9,0.95l0.55-9.25 M452.45,713.7l-0.075-7.65
+			l-8.25,0.375l-0.375,0.375l0.075,7.726 M462.35,712.1v-9.25l-10,0.4l0.025,2.8 M443.75,706.8v-0.35l0.375-0.025"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#1A171B" stroke-width="0.2" stroke-miterlimit="6.92" d="
+			M796.55,641.7v7.649 M568.775,635.4h0.024v-4.7 M557.2,630.5l-0.05,4.85"/>
+	</g>
+	<rect x="409.95" y="821.91" fill="none" width="111" height="20"/>
+	<text transform="matrix(1 0 0 1 411.9502 833.79)" font-family="'Tahoma'" font-size="13">Right Wing Panels</text>
+	<text id="border" class="svg_name_heading" transform="matrix(1 0 0 1 354.5498 30.7051)"><tspan x="0" y="0" fill="#0000FF" font-family="'Tahoma-Bold'" font-size="14">Right Wing</tspan><tspan x="0" y="20" fill="#0000FF" font-family="'Tahoma'" font-size="13">AMM TASK 06-41-00-992-809</tspan></text>
+	<text transform="matrix(1.0025 0 0 1 95.4429 658.6348)"><tspan x="0" y="0" font-family="'Tahoma-Bold'" font-size="12.3278">VIEW</tspan><tspan x="-12.367" y="13.505" font-family="'Tahoma-Bold'" font-size="12.3278">LOOKING</tspan><tspan x="6.315" y="31.492" font-family="'Tahoma-Bold'" font-size="15.69">UP</tspan></text>
+	<text transform="matrix(1.0024 0 0 1 9.999 813.7969)"><tspan x="0" y="0" font-family="'Tahoma'" font-size="12.3488">* ACCESSIBLE WITH </tspan><tspan x="0" y="13.584" font-family="'Tahoma'" font-size="12.3488"> FLAPS DOWN</tspan></text>
+	<text transform="matrix(0.9999 0 0 1 97.8428 218.9609)"><tspan x="0" y="0" font-family="'Tahoma-Bold'" font-size="11">VIEW</tspan><tspan x="-11.035" y="12.05" font-family="'Tahoma-Bold'" font-size="11">LOOKING</tspan><tspan x="-7.873" y="28.1" font-family="'Tahoma-Bold'" font-size="14">DOWN</tspan></text>
+	<text transform="matrix(0.992 0 0 1 204.6768 391.3853)" font-family="'Tahoma'" font-size="12.3278">YW 42.000</text>
+</g>
+<g id="fus_to_wing" class="border">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#B1B1B1" d="M212,424.15h47.25c4,0,6,2,6,6v54.75c0,4-2,6-6,6H212
+			c-4,0-6-2-6-6v-54.75C206,426.15,208,424.15,212,424.15z"/>
+		<path fill="none" stroke="#999999" stroke-width="1.5" stroke-miterlimit="5" d="M265.25,483.657c0,4-3.242,7.243-7.242,7.243
+			h-44.766c-4,0-7.242-3.243-7.242-7.243v-52.265c0-4,3.242-7.242,7.242-7.242h44.766c4,0,7.242,3.242,7.242,7.242V483.657z"/>
+	</g>
+	<g>
+		<rect x="211.3" y="428.6" fill="#9898FE" width="47" height="19"/>
+		
+			<rect x="211.3" y="428.6" fill="none" stroke="#FF6600" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" stroke-opacity="0" width="47" height="19"/>
+	</g>
+	<text transform="matrix(1 0 0 1 214.4502 442.541)" fill="#FFFFFF" font-family="'Tahoma'" font-size="13">GO TO </text>
+	<text transform="matrix(1 0 0 1 209.6338 458.8613)"><tspan x="0" y="0" font-family="'Tahoma'" font-size="11">FUSELAGE</tspan><tspan x="2.239" y="11.5" font-family="'Tahoma'" font-size="11">TO WING</tspan><tspan x="4.391" y="23" font-family="'Tahoma'" font-size="11">FAIRING</tspan></text>
+</g>
+<g id="fuselage" class="border">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#B1B1B1" d="M258.7,80.8v26.05c0,6.5-3.25,9.75-9.75,9.75H222.9
+			c-6.5,0-9.75-3.25-9.75-9.75V80.8c0-6.5,3.25-9.75,9.75-9.75h26.05C255.45,71.05,258.7,74.3,258.7,80.8z M228.65,111.7H242.6
+			V97.45h10.45l-17.399-24.4l-17.45,24.4h10.45V111.7z"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#0099FF" points="228.65,111.7 228.65,97.45 218.2,97.45 235.65,73.05 
+			253.05,97.45 242.6,97.45 242.6,111.7 		"/>
+		<path fill="none" stroke="#999999" stroke-width="1.5" stroke-miterlimit="5" d="M258.7,104.831c0,6.5-5.269,11.77-11.769,11.77
+			H224.92c-6.5,0-11.77-5.27-11.77-11.77V82.819c0-6.5,5.27-11.77,11.77-11.77h22.012c6.5,0,11.769,5.27,11.769,11.77V104.831z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 207.3496 127.811)" font-family="'Tahoma-Bold'" font-size="11">FUSELAGE</text>
+</g>
+<g id="vert_stab" class="border">
+	<g>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#0099FF" points="229.2,793.339 229.2,779.089 243.15,779.089 
+			243.15,793.339 253.6,793.339 236.15,817.739 218.75,793.339 		"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#B1B1B1" d="M213.1,809.989v-26.051c0-6.5,3.25-9.75,9.75-9.75H248.9
+			c6.5,0,9.75,3.25,9.75,9.75v26.051c0,6.5-3.25,9.75-9.75,9.75H222.85C216.35,819.739,213.1,816.489,213.1,809.989z M229.2,793.339
+			h-10.45l17.4,24.4l17.449-24.4H243.15v-14.25H229.2V793.339z"/>
+		<path fill="none" stroke="#999999" stroke-width="1.5" stroke-miterlimit="5" d="M258.65,807.971c0,6.5-5.27,11.769-11.77,11.769
+			h-22.012c-6.5,0-11.77-5.269-11.77-11.769v-22.013c0-6.5,5.27-11.77,11.77-11.77h22.012c6.5,0,11.77,5.27,11.77,11.77V807.971z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 220.4639 754.7998)"><tspan x="0" y="0" font-family="'Tahoma-Bold'" font-size="11">REAR</tspan><tspan x="-13.385" y="15" font-family="'Tahoma-Bold'" font-size="11">FUSELAGE</tspan></text>
+</g>
+</svg>
