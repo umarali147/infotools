@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Selected_Items" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+<svg version="1.1" id="Selected_Items" class="lh_eng" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 706.1 705.7" enable-background="new 0 0 706.1 705.7" xml:space="preserve">
 <symbol  id="_x34_11AL" viewBox="-256 -274.6 512 549.2">
 	<g id="Ebene_3_3_">
@@ -1001,7 +1001,7 @@
 			<use xlink:href="#_x34_12BL"  width="90" height="72.6" x="-45" y="-36.3" transform="matrix(1 0 0 -1 316.3863 306.2397)" overflow="visible"/>
 	</g>
 </g>
-<g>
+<g id="border">
 	<g>
 		
 			<path fill="none" stroke="#333333" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
