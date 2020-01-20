@@ -607,7 +607,7 @@
 <text transform="matrix(1 0 0 1 26.1001 715.2637)" fill="#1A171B" font-family="'Tahoma-Bold'" font-size="18">TOP</text>
 <text transform="matrix(1 0 0 1 0 271.0137)" fill="#1A171B" font-family="'Tahoma-Bold'" font-size="18">BOTTOM</text>
 <text id="border" class="svg_name_heading cp" transform="matrix(1 0 0 1 79.6001 14.7051)"><tspan x="0" y="0" fill="#0000FF" font-family="'Tahoma-Bold'" font-size="14">Horizontal Stabilizer</tspan>
-<tspan x="0" y="20" fill="#0000FF" font-family="'Tahoma'" font-size="13" class="downloadpdf" data-id="AMM06-41-00-992-805">AMM TASK 06-41-00-992-805</tspan></text>
+<tspan x="0" y="20" fill="#0000FF" font-family="'Tahoma'" font-size="13" class="downloadpdf" data-id="06-41-00-992-805">AMM TASK 06-41-00-992-805</tspan></text>
 <text transform="matrix(1.2835 0 0 1 457.1426 618.2861)" font-family="'Tahoma'" font-size="13.1033">FWD</text>
 <g id="vert_stab" class="border">
 	<g>
