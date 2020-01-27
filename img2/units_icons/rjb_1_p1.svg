@@ -1,0 +1,1645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Selected_Items" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="1291.05px" height="941.6px" viewBox="0 0 1291.05 941.6" enable-background="new 0 0 1291.05 941.6"
+	 xml:space="preserve">
+<symbol  id="TR_x5F_neu" viewBox="0.01 -20.534 39.329 19.163">
+	<g id="Ebene_3_3_">
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#BDBDBA" d="M0.01-4.997c0,2.417,1.208,3.625,3.625,3.625h32.078
+			c2.417,0,3.625-1.208,3.625-3.625v-11.912c0-2.417-1.208-3.625-3.625-3.625H3.635c-2.417,0-3.625,1.208-3.625,3.625V-4.997z"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#57A0CA" d="M4.157-1.811h31.06c2.342,0,3.513-1.171,3.513-3.513V-16.59
+			c0-2.342-1.171-3.513-3.513-3.513H4.157c-2.371,0-3.556,1.171-3.556,3.513v11.267C0.601-2.981,1.786-1.811,4.157-1.811z"/>
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M37.3-15.45c0-2.2-1.117-3.3-3.35-3.3H5.4
+				c-2.233,0-3.35,1.1-3.35,3.3v9c0,2.2,1.117,3.3,3.35,3.3h28.55c2.233,0,3.35-1.1,3.35-3.3V-15.45z"/>
+		</g>
+		<text transform="matrix(1 0 0 -1 9.1313 -16.7051)" fill="#57A0CA" font-family="'Tahoma-Bold'" font-size="14">TR</text>
+	</g>
+</symbol>
+<symbol  id="loc" viewBox="0.25 -36.35 36.05 36.1">
+	<g id="Ebene_3_2_">
+		<g>
+			<g>
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="5.5122" y1="-5.5132" x2="30.9872" y2="-30.9882">
+					<stop  offset="0.0196" style="stop-color:#E0DFDD"/>
+					<stop  offset="1" style="stop-color:#84827E"/>
+				</linearGradient>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M36.3-18.25c0-4.967-1.767-9.217-5.3-12.75
+					s-7.783-5.317-12.75-5.35c-4.967,0-9.2,1.783-12.7,5.35c-3.566,3.5-5.333,7.717-5.3,12.65c0,5,1.767,9.25,5.3,12.75
+					c3.534,3.567,7.767,5.35,12.7,5.35c4.967,0,9.217-1.767,12.75-5.3C34.533-9.083,36.3-13.317,36.3-18.25z"/>
+				<g>
+					<g>
+						<g>
+							<path fill-rule="evenodd" clip-rule="evenodd" fill="#57A0CA" d="M18.35-1.2c4.667,0,8.633-1.65,11.9-4.95
+								c3.333-3.333,5-7.333,5-12c0-4.667-1.667-8.65-5-11.95c-3.267-3.333-7.233-5-11.9-5c-4.7,0-8.717,1.667-12.05,5
+								c-3.267,3.3-4.9,7.283-4.9,11.95c0,4.667,1.633,8.667,4.9,12C9.633-2.85,13.65-1.2,18.35-1.2z"/>
+						</g>
+						<g>
+							<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M18.45-3.1c4.066,0,7.566-1.467,10.5-4.4
+								c2.933-2.933,4.4-6.45,4.4-10.55c0-4.1-1.467-7.617-4.4-10.55c-2.934-2.933-6.434-4.4-10.5-4.4
+								c-4.133,0-7.667,1.467-10.6,4.4c-2.934,2.934-4.4,6.45-4.4,10.55c0,4.1,1.466,7.617,4.4,10.55
+								C10.783-4.567,14.317-3.1,18.45-3.1z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<g>
+						
+							<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="13631.666" y1="-369.187" x2="13652.8447" y2="-369.187" gradientTransform="matrix(1.0844 -6.646669e-05 -0.0011 1.0844 -14777.082 383.8726)">
+							<stop  offset="0" style="stop-color:#FFFFFF"/>
+							<stop  offset="1" style="stop-color:#A4A6A8"/>
+						</linearGradient>
+						<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" d="M27.538-27.768c-0.759-0.724-1.663-1.084-2.711-1.084
+							s-1.934,0.361-2.657,1.084c-0.759,0.759-1.139,1.645-1.139,2.656l0.054,0.217l-7.156,7.157
+							c-0.542,0.542-0.688,1.174-0.434,1.897l-3.308-1.139c-0.65-0.181-1.229-0.054-1.735,0.379l-2.332,2.386
+							c-0.181,0.18-0.325,0.452-0.434,0.813c-0.073,0.361-0.055,0.669,0.054,0.921l0.488,1.41c0.036,0.181,0.145,0.307,0.325,0.38
+							c0.145,0.036,0.326-0.037,0.542-0.217l1.518-1.464c0.253-0.29,0.56-0.434,0.922-0.434c0.361,0,0.687,0.145,0.976,0.434
+							l1.626,1.572c0.253,0.253,0.38,0.578,0.38,0.976c0,0.397-0.126,0.723-0.38,0.976l-1.518,1.518
+							c-0.145,0.145-0.216,0.308-0.216,0.488c0.072,0.181,0.216,0.307,0.434,0.38l1.41,0.487c0.289,0.073,0.597,0.073,0.922,0
+							c0.361-0.072,0.633-0.216,0.813-0.434l2.332-2.331c0.217-0.181,0.362-0.452,0.434-0.813c0.073-0.325,0.073-0.633,0-0.922
+							l-1.138-3.253c0.687,0.217,1.301,0.073,1.844-0.434l7.157-7.157h0.217c1.048,0,1.952-0.361,2.71-1.084
+							c0.723-0.759,1.084-1.663,1.084-2.711S28.261-27.046,27.538-27.768z M23.417-26.521c0.397-0.362,0.868-0.542,1.41-0.542
+							c0.542,0,1.013,0.181,1.41,0.542c0.397,0.397,0.597,0.867,0.597,1.409c0,0.578-0.199,1.048-0.597,1.41
+							c-0.397,0.397-0.867,0.596-1.41,0.596c-0.542,0-1.012-0.199-1.41-0.596c-0.361-0.362-0.542-0.832-0.542-1.41
+							C22.875-25.654,23.056-26.124,23.417-26.521z"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#343433" d="M26.125-23.092c-0.368,0.368-0.802,0.551-1.303,0.551
+					c-0.501,0-0.936-0.184-1.304-0.551s-0.551-0.802-0.551-1.303c0-0.501,0.184-0.936,0.551-1.303
+					c0.334-0.334,0.769-0.501,1.304-0.501c0.501,0,0.936,0.167,1.303,0.501c0.334,0.368,0.501,0.802,0.501,1.303
+					C26.627-23.861,26.46-23.426,26.125-23.092z M24.622-20.886h0.201c0.969,0,1.788-0.334,2.456-1.002
+					c0.669-0.702,1.002-1.538,1.002-2.507s-0.333-1.788-1.002-2.456c-0.702-0.702-1.521-1.053-2.456-1.053
+					c-0.969,0-1.805,0.351-2.506,1.053c-0.668,0.668-1.002,1.487-1.002,2.456v0.201l-6.617,6.617
+					c-0.501,0.501-0.635,1.086-0.401,1.754l-3.008-1.052c-0.635-0.201-1.17-0.084-1.604,0.351L7.528-14.32
+					c-0.201,0.167-0.334,0.417-0.401,0.752c-0.067,0.301-0.067,0.585,0,0.853l0.451,1.253c0.033,0.2,0.15,0.334,0.351,0.401
+					c0.133,0.033,0.284-0.033,0.451-0.201l1.403-1.353c0.268-0.267,0.568-0.401,0.902-0.401s0.635,0.134,0.902,0.401l1.454,1.454
+					c0.268,0.234,0.401,0.535,0.401,0.902c0,0.334-0.134,0.635-0.401,0.902l-1.354,1.404c-0.167,0.167-0.234,0.317-0.201,0.451
+					c0.067,0.201,0.184,0.318,0.351,0.351L13.143-6.7c0.267,0.066,0.551,0.066,0.852,0c0.334-0.067,0.585-0.201,0.752-0.401
+					l2.206-2.156c0.434-0.435,0.551-0.969,0.351-1.604l-1.053-3.007c0.635,0.2,1.22,0.066,1.754-0.401L24.622-20.886z"/>
+			</g>
+		</g>
+	</g>
+</symbol>
+<g>
+	<rect x="16.35" y="19.65" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="360.4" height="395.8"/>
+</g>
+<g>
+	<g>
+		<g>
+			<rect x="16.45" y="19.6" fill-rule="evenodd" clip-rule="evenodd" fill="#0099FF" width="360.2" height="26.4"/>
+		</g>
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#999999" stroke-miterlimit="6.92" d="M376.75,45.95v370.5
+				H16.35V45.95v-26.2h360.4V45.95z M16.35,45.95h360.4"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 24.5498 37.3052)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="14">RELAY JUNCTION BOX #1</text>
+<text transform="matrix(1 0 0 1 114.2998 349.355)"><tspan x="0" y="0" fill="#0000FF" font-family="'Tahoma'" font-size="14">AIPC 24-50-60-01</tspan><tspan x="0" y="21" fill="#0000FF" font-family="'Tahoma'" font-size="14">AMM TASK 24-50-60-000-801</tspan><tspan x="0" y="42" fill="#0000FF" font-family="'Tahoma'" font-size="14">AMM TASK 24-50-60-400-801</tspan></text>
+<g>
+	<text transform="matrix(1 0 0 1 37.7002 349.605)"><tspan x="0" y="0" font-family="'Tahoma'" font-size="14">Parts</tspan><tspan x="0" y="21" font-family="'Tahoma'" font-size="14">Removal</tspan><tspan x="0" y="42" font-family="'Tahoma'" font-size="14">Installation</tspan></text>
+	
+		<use xlink:href="#TR_x5F_neu"  width="39.329" height="19.163" id="XMLID_1_" x="0.01" y="-20.534" transform="matrix(1 0 0 -1 314.2002 332)" overflow="visible"/>
+	
+		<use xlink:href="#TR_x5F_neu"  width="39.329" height="19.163" x="0.01" y="-20.534" transform="matrix(1 0 0 -1 314.2002 375.5)" overflow="visible"/>
+	
+		<use xlink:href="#TR_x5F_neu"  width="39.329" height="19.163" x="0.01" y="-20.534" transform="matrix(1 0 0 -1 314.2002 353.25)" overflow="visible"/>
+</g>
+<use xlink:href="#loc"  width="36.05" height="36.1" x="0.25" y="-36.35" transform="matrix(0.7374 0 0 -0.7374 345.8999 19.6001)" overflow="visible"/>
+<g>
+	<g>
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#0099FF" d="M296.25,195.2h-0.2l-1.35-0.9h-0.4l-0.2,0.05l-0.85,0.95
+				l-0.05,0.3l-0.15,0.2v0.55l0.15,0.2l0.2,0.2l0.4,0.1l1.85,1.15l0.1,0.1h0.3v20.15l0.2,0.15h-0.2l-1.35-0.95h-0.4l-0.2,0.1
+				l-0.7,0.7l-0.35,0.75v0.5l0.35,0.5l2.25,1.25l0.1,0.1h0.3v1.95l-5.95-3.4h-0.15v-0.1h-0.2l-0.05,0.1h-0.25l-0.1,0.1h-0.1
+				l-0.05,0.15h-0.05v0.05l-0.1,0.15h-0.1l-0.2,0.3l-0.1,0.2v0.1l-0.1,0.1v0.1l-0.1,0.1V222h0.1v0.05l0.1,0.1l0.1,0.15l5.85,3.4
+				l-12.65,7.4h-0.2l-0.6,0.3h-0.35l-0.2,0.1h-1.55l-0.2-0.1h-0.3l-0.65-0.3h-0.2l-5.35-3.2h-0.15l-0.15,0.1h-0.2v0.1h-0.1l-0.3,0.3
+				h-0.1l-0.15,0.1v0.1l-0.05,0.25l-0.15,0.1v0.1l-0.05,0.1v0.2l-0.1,0.1v0.5l0.1,0.1v0.1l0.2,0.25l5.35,3.05l0.3,0.1l0.3,0.2
+				l1.65,0.45h2.2l1.65-0.45l0.25-0.2l0.45-0.1l12.75-7.4v10.3l0.2,0.1h-0.2l-1.35-0.9h-0.2l-0.4,0.2l-0.1,0.1l-0.2,0.1l-0.4,0.4
+				l-0.35,0.85v0.4l0.2,0.4l0.15,0.1l0.4,0.2l1.85,1.15h0.4v1.6l-4.95,2.85l-0.1-0.35v-4.2l-0.1-0.65l-0.35-0.5l-0.4-0.1l-0.6,0.1
+				l-0.6,0.3l-1.05,1.35l-0.3,0.8v5.05l0.1,0.25l2,1.1l0.4-0.6l0.8-0.85l0.9-0.5l0.95-0.2l0.5,0.2v0.5l-0.6-0.2l-0.6,0.15l-0.85,0.4
+				l-1.5,1.7l-2.3-1.3l-0.1-0.2l-12.8,7.3l-0.05-0.35v-4.2l-0.1-0.6l-0.3-0.45l-0.95-0.4l-1.1,0.4l-1.05,1.35l-0.35,0.85v5.65
+				l-6.45,3.7l-0.5-0.2l-0.55-0.4v-1.35l-75.8-43.75v-52.6l29.85-17.3l76.45,44.15l1.3-0.7l1.15,0.6v5.3L296.25,195.2z
+				 M265.75,234.25l-0.25,0.65v0.55l0.05,0.25v0.05l2.5,1.45l0.1,0.15h0.4l0.4-0.25l0.1-0.2l0.45-0.4l0.3-0.75v-0.5l-0.3-0.4
+				l-2.3-1.35l-0.1-0.1h-0.4l-0.4,0.2l-0.1,0.2L265.75,234.25z M266.7,210.15l-0.4,0.2l-0.1,0.2l-0.2,0.1l-0.25,0.3l-0.25,0.7v0.55
+				l0.05,0.2v0.1l0.2,0.1l2.4,1.45h0.4l0.4-0.2l0.1-0.2l0.45-0.45l0.05-0.3l0.15-0.2l0.1-0.3V212l-0.3-0.55l-2.3-1.2l-0.1-0.1H266.7
+				z M276.65,256.6l0.05,0.05v0.45l-0.6-0.15l-0.6,0.15l-0.85,0.4l-1.55,1.75v-0.65l0.4-0.6l0.85-0.85l0.9-0.6l0.85-0.05
+				L276.65,256.6z M267.1,253.45h-0.4l-0.4,0.2l-0.1,0.2l-0.45,0.45l-0.05,0.35l-0.15,0.2l-0.05,0.25v0.4l0.05,0.25v0.1l0.2,0.1
+				l0.35,0.35l1.95,1l0.1,0.1h0.4l0.4-0.25l0.1-0.2l0.45-0.4l0.3-0.7v-0.55l-0.1-0.05l-0.2-0.35l-2.3-1.3L267.1,253.45z"/>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M273.1,259.25l-2.4-1.3l-0.1-0.25v-5.65l0.35-0.85l1.05-1.35
+				l1.1-0.4l0.95,0.4l0.3,0.45l0.1,0.6v4.2l0.05,0.35l2.15,1.15l-0.55-0.1l-0.85,0.05l-0.9,0.6L273.5,258l-0.4,0.6V259.25z
+				 M293.25,247.1l-0.5-0.2l-0.95,0.2l-0.9,0.5l-0.8,0.85l-0.4,0.6l-2-1.1l-0.1-0.25v-5.05l0.3-0.8l1.05-1.35l0.6-0.3l0.6-0.1
+				l0.4,0.1l0.35,0.5l0.1,0.65v4.2l0.1,0.35h0.1L293.25,247.1z M296.05,241.45h-0.4l-1.85-1.15l-0.4-0.2l-0.15-0.1l-0.2-0.4v-0.4
+				l0.35-0.85l0.4-0.4l0.2-0.1l0.1-0.1l0.4-0.2h0.2l1.35,0.9h0.2l1.05,0.6v0.2l0.1,0.25v0.4l-0.3,0.7l-0.2,0.3l-0.35,0.35l-0.4,0.2
+				H296.05z M296.05,223.3l1.25,0.85l0.4,0.4l0.1,0.2l0.25,0.35v0.2l0.05,0.25v0.25l-0.05,0.3v0.2l-0.25,0.3l-0.1,0.2l-0.4,0.4
+				l-1.25,0.85l-12.75,7.4l-0.45,0.1l-0.25,0.2l-1.65,0.45h-2.2l-1.65-0.45l-0.3-0.2l-0.3-0.1l-5.35-3.05l-0.2-0.25v-0.1l-0.1-0.1
+				v-0.5l0.1-0.1v-0.2l0.05-0.1v-0.1l0.15-0.1l0.05-0.25v-0.1l0.15-0.1h0.1l0.3-0.3h0.1V230h0.2l0.15-0.1h0.15l5.35,3.2h0.2
+				l0.65,0.3h0.3l0.2,0.1h1.55l0.2-0.1h0.35l0.6-0.3h0.2l12.65-7.4l-5.85-3.4l-0.1-0.15l-0.1-0.1V222h-0.1v-0.75l0.1-0.1v-0.1
+				l0.1-0.1v-0.1l0.1-0.2l0.2-0.3h0.1l0.1-0.15v-0.05h0.05l0.05-0.15h0.1l0.1-0.1h0.25l0.05-0.1h0.2v0.1h0.15L296.05,223.3z
+				 M296.25,218.4l0.95,0.45l0.1,0.15v0.1l0.1,0.2v0.5l-0.1,0.2l-0.1,0.35l-0.45,0.6l-0.2,0.2l-0.4,0.2h-0.1h-0.3l-0.1-0.1
+				L293.4,220l-0.35-0.5V219l0.35-0.75l0.7-0.7l0.2-0.1h0.4l1.35,0.95H296.25z M296.25,195.2l0.95,0.4l0.1,0.2v0.15l0.1,0.2v0.5
+				l-0.3,0.6l-0.2,0.2l-0.35,0.45l-0.4,0.2h-0.1h-0.3l-0.1-0.1l-1.85-1.15l-0.4-0.1l-0.2-0.2l-0.15-0.2v-0.55l0.15-0.2l0.05-0.3
+				l0.85-0.95l0.2-0.05h0.4l1.35,0.9H296.25z M266.7,210.15h0.4l0.1,0.1l2.3,1.2l0.3,0.55v0.4l-0.1,0.3l-0.15,0.2l-0.05,0.3
+				l-0.45,0.45l-0.1,0.2l-0.4,0.2h-0.4l-2.4-1.45l-0.2-0.1v-0.1l-0.05-0.2v-0.55l0.25-0.7l0.25-0.3l0.2-0.1l0.1-0.2L266.7,210.15z
+				 M265.75,234.25l0.45-0.45l0.1-0.2l0.4-0.2h0.4l0.1,0.1l2.3,1.35l0.3,0.4v0.5l-0.3,0.75l-0.45,0.4l-0.1,0.2l-0.4,0.25h-0.4
+				l-0.1-0.15l-2.5-1.45v-0.05l-0.05-0.25v-0.55L265.75,234.25z M267.1,253.45l0.1,0.15l2.3,1.3l0.2,0.35l0.1,0.05v0.55l-0.3,0.7
+				l-0.45,0.4l-0.1,0.2l-0.4,0.25h-0.4l-0.1-0.1l-1.95-1l-0.35-0.35l-0.2-0.1v-0.1l-0.05-0.25v-0.4l0.05-0.25l0.15-0.2l0.05-0.35
+				l0.45-0.45l0.1-0.2l0.4-0.2H267.1z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M242.95,300.1l-0.15,0.05l-0.65,0.4l-1,1.35l-0.3,0.8
+				l-0.35,1.85v0.95l0.5,1.6l-0.25-0.15l-0.3-0.4l-0.55-0.95v1.95l-0.9,0.5l-1.65-0.9l-1.8-3.25l-14.7,8.4l0.95,1.75l0.1,0.1v0.2
+				l0.1,0.15v0.45l-0.3,0.35h-0.2l-0.1-0.15h-0.1l-0.55-0.45l-0.9-1.8l-1.65,0.95l-97.5-56.4v-2.4l0.25-0.85l0.2-0.05l0.25-0.25
+				h0.15l0.65-0.4h0.55l1.4,0.25l7.4-4.3l0.15-37.25l0.85-0.5l4.6,2.65v-1.6h-0.1l-0.1-0.15l-4-2.35h-0.15l-0.2-0.2h-0.05l-0.15-0.1
+				v-0.1l-0.1-0.1h-0.1l-0.1-0.1v-0.1l-0.1-0.1v-0.15l-0.1-0.05h-0.1v-0.15l-0.1-0.05v-0.15l-0.15-0.1v-0.1l-0.05-0.1v-0.1
+				l-0.15-0.1v-0.2l-0.05-0.1v-0.2l-0.15-0.15v-1.8l0.25-0.1l0.3,0.1v0.1h0.1v0.05l0.1,0.15v0.1l0.1,0.1v0.1l31.3-17.9v1.5l0.1,0.15
+				v0.05l0.15,0.15v0.05l0.05,0.15v0.1l0.2,0.2v0.1h0.1l0.25,0.25h0.05v0.05l4.05,2.4h0.2l0.1,0.05l0.1,0.25l0.4,0.4v0.2l0.1,0.2
+				v0.1l34.4,59.35l2.05,2.65l43.65,32.3l0.65,0.65l0.75,1.05l0.25,1.1v2.8l-0.2,0.2l-8,4.65L242.95,300.1z M155.9,262.3l-1.3,1.6
+				l-0.8,1.65l-0.2,1.9l0.35,1.1l7.8,4.7l1.25,0.25l0.3-0.15l0.25-0.25l0.25-0.65l0.1-0.6V271l-0.35-1.65l-5.25-9.05L155.9,262.3z
+				 M146.3,258.85l-0.7,0.25l-0.6,0.7l-0.35,0.8l0.15,0.7l0.5,0.35l0.6-0.2l0.6-0.75l0.35-0.8l-0.15-0.75L146.3,258.85z
+				 M170.85,210.75h-0.55l-0.6,0.15l-0.4,0.2v26.15l1.35,2.85l0.45,0.55l0.15,0.05l0.05,0.25h0.15v0.1l1.05,0.9l21.4,12.8l0.6,0.2
+				h0.65l0.25-0.05l0.25-0.35l0.2-0.65l0.1-0.6l-0.1-1.55L195.2,250l-20.8-36l-0.4-0.85l-0.6-0.75l-1.25-1.1l-0.65-0.35
+				L170.85,210.75z M213.65,277.85l-0.4,0.4v0.3l0.05,0.1v0.05l0.35,0.35l0.2,0.1h0.25l0.15,0.1h1.15l0.4-0.2l0.4-0.35v-0.45
+				l-0.2-0.35l-0.4-0.2h-0.2l-0.2-0.1h-0.25l-0.2-0.1h-0.2l-0.3,0.1h-0.15L213.65,277.85z M167.65,259.3l-3.8,0.4l7.6,13.2l3.15,3.7
+				l25.95,19.05l2.7,0.1l6-0.85l2.55-0.95l2.3-1.25l1.85-1.4l0.7-0.9l0.4-1.1l0.2-1.7l-0.5-1.8l-1-1.65l-1.65-1.5l-35.05-21.15
+				l-2.45-1l-5.9-1.15L167.65,259.3z"/>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#0099FF" d="M227.35,309.3l0.65-0.05l0.7,0.05l2.35,0.6l0.75,0.35l0.3,0.25
+				l0.1-0.05h0.6l1.75,0.3l0.3,0.2l0.5-0.1l0.6,0.1l6.75,1.75l0.7,0.3l0.65,0.45l0.5,0.6l0.6,1.55l0.2,0.8v1.85l-0.2,0.95l-0.4,0.85
+				l-0.45,0.6l-0.6,0.6l-0.6,0.45l-0.6,0.2l-0.75,0.05l-0.6-0.05l-6.7-1.65l-0.75-0.35v-0.05l-1.7-0.35l-0.7-0.4l-1.15,0.3
+				l-0.75-0.1l-2.4-0.65l-0.6-0.25l-0.6-0.4l-0.5-0.65l-0.4-0.75l-0.55-1.75v-1l0.35-1.75l0.25-0.8l1.05-1.4l0.6-0.4L227.35,309.3z
+				 M242.95,300.1l1.3-0.25l2.95,0.7l0.75,0.35l0.35,0.25l0.1-0.05h0.65l1.65,0.3l0.35,0.2h0.5l7.3,1.75l0.75,0.3l0.6,0.4l0.95,1.35
+				l0.3,0.8l0.2,1.85l-0.15,1l-0.6,1.6l-0.4,0.7l-0.5,0.55l-0.6,0.4l-0.75,0.3l-0.65,0.1l-7.35-1.85l-0.8-0.4h-0.8l-1.5-0.55
+				l-0.1-0.05l-0.45,0.2h-0.7l-3.1-0.75l-0.6-0.25l-0.65-0.45l-0.5-0.6l-0.4-0.75L241,307.1l-0.5-1.6v-0.95l0.35-1.85l0.3-0.8
+				l1-1.35l0.65-0.4L242.95,300.1z M257.8,308.85l0.05,0.05h0.1L257.8,308.85z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="263.95" y1="207.95" x2="263.95" y2="261.2"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="263.65" y1="206.9" x2="187.1" y2="162.85"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					261.55,212.55 261.8,212.65 262.05,213.05 262.05,213.25 262.2,213.45 262.2,213.9 262.05,214 262.05,214.1 262,214.2 
+					261.65,214.2 261.45,214 261.25,214 261.2,213.8 261.05,213.7 260.85,213.25 260.85,212.55 261.05,212.35 261.25,212.35 
+					261.45,212.45 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					261.55,225.05 261.8,225.1 261.85,225.3 262,225.45 262.05,225.65 262.05,225.85 262.2,225.95 262.2,226.45 262.05,226.55 
+					262.05,226.7 262,226.7 261.8,226.75 261.65,226.75 261.45,226.55 261.25,226.45 261.2,226.35 261.05,226.15 260.95,226.05 
+					260.85,225.85 260.85,225.05 260.95,225.05 261.05,224.9 261.45,224.9 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					261.55,237.6 261.8,237.7 262,238 262.05,238.1 262.05,238.35 262.2,238.5 262.2,239 262.05,239.15 262.05,239.25 
+					261.55,239.25 261.45,239.15 261.25,239 261.2,238.8 261.05,238.75 260.85,238.35 260.85,237.6 260.95,237.5 261.45,237.5 				
+					"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					261.45,250.05 261.55,250.05 261.8,250.15 261.85,250.4 262,250.45 262.05,250.65 262.05,250.85 262.2,251 262.2,251.5 
+					262.05,251.6 262.05,251.7 262,251.8 261.65,251.8 261.45,251.6 261.25,251.5 261.05,251.2 260.95,251.1 260.85,250.85 
+					260.85,250.15 261.05,249.95 261.25,249.95 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="295.85" y1="189.6" x2="263.95" y2="207.95"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="289.6" y1="215.75" x2="271.25" y2="226.35"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="276.75" y1="208.25" x2="276.75" y2="223.05"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="289.6" y1="211.65" x2="271.25" y2="222.25"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="289.6" y1="203" x2="271.25" y2="213.6"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="282.9" y1="206.9" x2="282.9" y2="215.55"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					265.55,222.15 265.7,221.9 265.7,221.85 265.8,221.75 265.9,221.55 266.2,221.2 266.35,221.2 266.55,221.1 266.55,221.2 
+					266.6,221.2 266.75,221.3 266.85,221.3 266.85,221.75 266.75,221.9 266.75,222.05 266.6,222.25 266.2,222.65 266.1,222.65 
+					266,222.75 265.9,222.65 265.7,222.65 265.7,222.55 265.55,222.35 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="262.9" y1="207.2" x2="262.9" y2="259.2"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="293.4" y1="189.7" x2="262.9" y2="207.2"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					294.4,205.15 294.4,205.25 294.5,205.35 294.5,205.85 294.4,206.1 294.3,206.15 294.2,206.35 294.2,206.5 294.05,206.6 
+					293.9,206.6 293.8,206.7 293.5,206.7 293.5,206.6 293.4,206.5 293.4,205.95 293.5,205.75 293.6,205.7 293.6,205.55 
+					293.7,205.35 293.9,205.25 294.05,205.25 294.1,205.15 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					267.55,236.35 267.65,236.05 267.65,235.85 267.75,235.5 267.95,235.3 268.05,235.1 268.5,234.7 268.8,234.5 269.2,234.5 				
+					"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					269,235.65 268.85,235.85 268.8,236.05 268.5,236.35 268.25,236.5 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					290.2,200.85 290.2,201.05 290.3,201.25 290.3,217.3 290.2,217.5 290.2,217.75 290.1,217.95 290.1,218.25 290,218.4 
+					289.8,218.6 289.6,219.15 289.4,219.25 289.2,219.45 288.95,219.6 288.85,219.8 271.8,229.55 271.65,229.65 271.15,229.65 
+					270.95,229.55 270.65,229.25 270.65,229.05 270.5,228.85 270.5,212.45 270.65,212.15 270.65,211.95 270.95,211.25 271.15,211 
+					271.25,210.8 271.8,210.3 288.85,200.4 288.95,200.3 289.8,200.3 290.1,200.5 290.1,200.7 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					272.8,250.15 272.6,250.25 272.45,250.4 272.3,250.45 272,250.85 271.85,251.1 271.85,251.25 271.8,251.5 271.8,252 272,252.2 
+					272.4,252.2 272.6,252.1 272.65,252.1 273,251.8 273.3,251.2 273.3,251 273.45,250.8 273.3,250.6 273.3,250.45 273,250.15 				
+					"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					272.3,253.45 271.85,253.95 271.85,254.15 271.8,254.4 271.8,254.85 271.85,255.05 272,255.05 272.05,255.2 272.4,255.2 
+					272.6,255.05 272.65,255 272.9,254.85 273.3,254.05 273.3,253.85 273.45,253.75 273.3,253.55 273.3,253.35 273.1,253.15 
+					272.8,253.15 272.6,253.25 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					273.1,250.8 273,250.8 273,250.85 272.65,250.85 272.65,250.6 272.45,250.65 272.45,250.85 272.4,251 272.4,251.2 272.3,251.2 
+					272.3,251.25 272.15,251.25 272.05,251.4 272.05,251.6 272.4,251.6 272.45,251.7 272.45,251.9 272.65,251.7 272.65,251.4 
+					272.8,251.4 272.8,251.25 272.9,251.2 273,251.2 273,251.1 273.1,251.1 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					272.45,253.65 272.45,253.85 272.4,253.85 272.4,254.05 272.3,254.05 272.3,254.15 272.15,254.15 272.15,254.25 272.05,254.25 
+					272.05,254.6 272.15,254.6 272.15,254.45 272.4,254.45 272.4,254.6 272.45,254.6 272.45,254.8 272.65,254.65 272.65,254.4 
+					272.8,254.4 272.8,254.15 272.9,254.15 272.9,254.05 273,254.05 273,253.95 273.1,253.95 273.1,253.75 273,253.75 272.9,253.85 
+					272.8,253.85 272.8,253.75 272.65,253.75 272.65,253.55 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="272.9" y1="259" x2="272.9" y2="258.35"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					270.75,257.05 270.95,257.25 272.9,258.35 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="270.75" y1="253.75" x2="270.75" y2="256.9"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					271.25,256.65 272.15,255.8 273,255.25 273.65,255.05 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					273.5,249.55 273.3,249.4 272.8,249.55 272.15,249.95 271.65,250.45 271.15,251.2 270.8,252 270.75,253.75 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					267.15,236.55 266.95,236.35 266.85,236.15 266.85,235.85 266.95,235.65 266.95,235.45 267,235.1 267.2,234.9 267.35,234.6 
+					267.55,234.5 267.75,234.3 267.95,234.2 268.05,234.05 268.5,234.05 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="273.5" y1="249.55" x2="273.85" y2="249.6"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					266.95,233.15 267,233.25 269.3,234.6 269.6,235 269.6,235.5 269.3,236.25 268.85,236.65 268.8,236.85 268.4,237.1 
+					267.95,237.1 267.85,236.95 265.35,235.5 265.35,235.45 265.3,235.2 265.3,234.7 265.35,234.5 265.55,234 266,233.55 
+					266.1,233.35 266.55,233.15 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					288.85,240.85 288.75,241.1 288.55,241.3 288.55,241.5 288.35,241.9 288.35,242.2 288.45,242.45 288.45,242.5 288.55,242.65 
+					288.95,242.65 289.2,242.5 289.25,242.45 289.5,242.3 289.6,242.2 290,241.4 290,241 289.9,240.85 289.9,240.8 289.7,240.6 
+					289.4,240.6 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					274.3,255.2 274.25,254.85 274.25,250.65 274.15,250.05 273.85,249.6 272.9,249.2 271.8,249.6 270.75,251 270.4,251.8 
+					270.4,257.45 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					288.55,244.4 288.35,244.8 288.35,245.2 288.45,245.3 288.45,245.5 288.55,245.5 288.65,245.65 288.95,245.65 289.2,245.5 
+					289.25,245.45 289.5,245.3 290,244.25 290,243.95 289.9,243.8 289.9,243.65 289.8,243.55 289.4,243.55 288.85,243.85 
+					288.75,244.05 288.55,244.15 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					289.05,241.3 288.95,241.4 288.95,241.6 288.85,241.6 288.85,241.7 288.65,241.7 288.65,242 288.95,242 288.95,242.15 
+					289.05,242.15 289.05,242.3 289.25,242.15 289.25,241.9 289.4,241.8 289.4,241.7 289.5,241.7 289.5,241.6 289.6,241.6 
+					289.6,241.5 289.7,241.5 289.7,241.2 289.6,241.3 289.4,241.3 289.4,241.2 289.25,241.2 289.25,241 289.05,241.1 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					289.5,248.8 289.9,248.2 290.7,247.35 291.6,246.85 292.55,246.65 293.05,246.85 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					289.05,244.25 288.95,244.25 288.95,244.45 288.85,244.45 288.85,244.6 288.75,244.6 288.75,244.65 288.65,244.65 288.65,245 
+					288.75,245 288.75,244.9 288.95,244.9 288.95,245 289.05,245 289.05,245.2 289.25,245.1 289.25,244.8 289.4,244.8 289.4,244.6 
+					289.5,244.6 289.5,244.45 289.7,244.45 289.7,244.15 289.5,244.15 289.5,244.25 289.4,244.25 289.4,244.15 289.25,244.15 
+					289.25,243.85 289.05,244.05 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="289.5" y1="249.4" x2="289.5" y2="248.8"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					287.4,247.45 287.55,247.7 289.5,248.8 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="287.4" y1="244.15" x2="287.4" y2="247.35"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					287.85,247.15 288.75,246.25 289.7,245.65 290.3,245.5 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					290,239.85 289.4,240 288.75,240.25 287.75,241.6 287.4,242.45 287.4,244.15 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="290.1" y1="240" x2="290.4" y2="240"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					267.65,213.25 267.55,212.95 267.65,212.8 267.65,212.55 267.75,212.25 267.95,212.05 268.05,211.75 268.25,211.55 
+					268.8,211.25 269.2,211.25 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					269,212.35 268.85,212.55 268.8,212.8 268.5,213.05 268.25,213.2 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					267,213.2 266.85,212.8 266.85,212.55 266.95,212.35 266.95,212.05 267,211.85 267.2,211.65 267.35,211.3 267.75,211 
+					267.95,210.8 268.05,210.8 268.25,210.7 268.5,210.8 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					290.9,245.65 290.8,245.3 290.8,241.1 290.7,240.45 290.4,240 289.6,239.65 288.95,239.75 288.35,240.05 287.35,241.4 
+					287.1,242.2 287,242.95 287,247.7 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					267.85,257.05 267.65,256.85 267.65,256.65 267.55,256.4 267.65,256.1 267.65,255.9 267.75,255.6 267.95,255.4 268.05,255.2 
+					268.5,254.8 268.8,254.6 269.2,254.6 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					267.15,256.65 266.85,256.25 266.85,256.05 266.95,255.7 266.95,255.5 267,255.2 267.2,255 267.35,254.8 267.75,254.4 
+					267.95,254.25 268.05,254.15 268.5,254.15 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					266.95,209.9 267,210 269.4,211.3 269.6,211.75 269.6,212.15 269.5,212.45 269.4,212.65 269.3,212.95 268.85,213.4 268.8,213.6 
+					268.4,213.8 267.95,213.8 265.55,212.35 265.35,212.25 265.35,212.15 265.3,211.95 265.3,211.45 265.55,210.7 265.8,210.4 
+					266,210.3 266.1,210.1 266.55,209.9 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					295.45,221 295.25,220.8 295.25,219.9 295.35,219.6 295.55,219.4 295.7,219.15 296.05,218.75 296.5,218.55 296.8,218.55 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					296.5,218.85 296.7,219.05 296.7,219.4 296.55,219.6 296.55,219.8 296.35,220.1 296.3,220.2 296.15,220.4 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					267,253.35 269.3,254.65 269.5,255 269.6,255.05 269.6,255.6 269.3,256.3 268.85,256.7 268.8,256.9 268.4,257.15 267.95,257.15 
+					267.85,257.05 265.9,256.05 265.55,255.7 265.35,255.6 265.35,255.5 265.3,255.25 265.3,254.85 265.35,254.6 265.5,254.4 
+					265.55,254.05 266,253.65 266.1,253.45 266.55,253.25 266.95,253.25 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					294.7,220.6 294.5,220.4 294.4,220.2 294.4,220 294.5,219.65 294.5,219.45 294.65,219.15 294.85,218.95 294.9,218.75 
+					295.35,218.35 295.55,218.25 295.7,218.15 296.05,218.15 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					295.45,197.75 295.25,197.55 295.25,196.6 295.35,196.4 295.55,196.2 296.05,195.55 296.5,195.35 297,195.35 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					296.5,195.7 296.7,195.9 296.7,196.2 296.55,196.4 296.55,196.55 296.5,196.6 296.05,197.15 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					294.65,197.2 294.4,196.8 294.4,196.6 294.5,196.55 294.5,196.3 294.65,196 294.85,195.75 294.9,195.5 295.15,195.35 
+					295.35,195.15 295.7,194.95 296.05,194.95 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					295.45,221 293.2,219.8 292.85,219.25 292.85,218.75 293.2,218 293.9,217.3 294.1,217.2 294.5,217.2 295.85,218 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					295.25,240.85 295.25,240 295.35,239.75 295.85,239 296.05,238.95 296.5,238.6 296.8,238.6 297,238.75 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					296.55,239 296.7,239.25 296.7,239.55 296.55,239.65 296.55,239.85 296.05,240.6 295.85,240.65 295.55,240.65 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					294.7,240.65 294.5,240.45 294.4,240.25 294.4,240.05 294.5,239.85 294.5,239.55 294.9,238.8 295.35,238.4 295.55,238.35 
+					295.7,238.2 296.05,238.2 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					295.45,197.75 293.6,196.6 293.2,196.55 292.85,196.1 292.85,195.55 293,195.35 293.05,195.05 293.9,194.1 294.1,194.05 
+					294.5,194.05 295.85,194.9 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					295.75,241.2 295.45,241.2 293.6,240.05 293.2,239.85 293.05,239.75 292.85,239.35 292.85,238.95 293.2,238.1 293.6,237.7 
+					293.8,237.6 293.9,237.5 294.3,237.3 294.5,237.3 295.85,238.1 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					272.9,258.35 273.3,257.75 274.15,256.9 275.1,256.3 275.9,256.25 276.4,256.4 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					289.5,200.95 289.4,201.05 289.2,201.05 272.4,210.8 272.15,210.8 272.05,211 272,211.15 271.8,211.25 271.35,211.95 
+					271.35,212.15 271.25,212.35 271.25,228.95 271.45,228.95 288.45,219.15 288.85,218.85 288.95,218.6 289.25,218.35 
+					289.4,218.15 289.4,217.95 289.5,217.8 289.5,217.6 289.6,217.4 289.6,201.15 289.5,201.05 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					268.65,256.25 268.5,256.55 268.25,256.55 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="263.95" y1="207.95" x2="262.9" y2="207.2"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					295.85,223.05 289.9,219.65 289.8,219.65 289.8,219.6 289.6,219.6 289.5,219.65 289.25,219.65 289.2,219.8 289.05,219.8 
+					288.95,219.9 288.95,220 288.85,220.1 288.75,220.1 288.55,220.4 288.45,220.6 288.45,220.7 288.35,220.8 288.35,220.9 
+					288.25,221 288.25,221.75 288.35,221.75 288.35,221.85 288.45,221.9 288.55,222.05 294.4,225.45 281.75,232.85 281.55,232.85 
+					280.95,233.15 280.6,233.15 280.4,233.25 278.85,233.25 278.65,233.15 278.35,233.15 277.75,232.85 277.55,232.85 
+					272.15,229.65 272,229.65 271.85,229.75 271.65,229.75 271.65,229.85 271.55,229.85 271.25,230.2 271.15,230.2 271.05,230.25 
+					271.05,230.4 270.95,230.6 270.8,230.7 270.8,230.8 270.75,230.9 270.75,231.1 270.65,231.2 270.65,231.7 270.75,231.8 
+					270.75,231.9 270.95,232.15 276.3,235.2 276.6,235.3 276.95,235.5 278.55,235.95 280.75,235.95 282.4,235.5 282.65,235.3 
+					283.1,235.2 295.85,227.8 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					187.1,162.85 187.1,215.45 262.9,259.2 262.9,260.55 263.45,261 263.95,261.2 270.4,257.45 270.5,257.7 272.9,259 
+					274.45,257.25 275.3,256.85 275.9,256.7 276.5,256.85 276.5,256.4 274.3,255.2 287.1,247.9 287.2,248.1 289.5,249.4 291,247.7 
+					291.85,247.3 292.45,247.15 293.05,247.35 293.05,246.85 291,245.65 290.9,245.65 295.85,242.85 295.85,241.2 295.95,241.2 
+					296.35,241 296.7,240.65 296.9,240.4 297.2,239.65 297.2,239.25 297.1,239 297.1,238.8 295.85,238.1 295.85,227.8 297.1,226.95 
+					297.55,226.55 297.6,226.35 297.85,226.05 297.85,225.85 297.95,225.55 297.95,225.3 297.85,225.05 297.85,224.85 297.6,224.5 
+					297.55,224.3 297.1,223.9 295.85,223.05 295.85,221.1 295.95,221.1 296.35,220.9 296.55,220.7 297,220.1 297.1,219.8 
+					297.2,219.6 297.2,219.05 297.1,218.85 297.1,218.75 297,218.6 295.85,218 295.85,197.85 295.95,197.85 296.35,197.65 
+					296.7,197.2 296.9,197 297.2,196.4 297.2,195.9 297.1,195.7 297.1,195.55 297,195.35 295.85,194.9 295.85,189.6 294.7,189 
+					293.4,189.7 217,145.55 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					167.05,251 170.95,248.8 170.95,241 167.05,243.25 167.05,245.5 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="154.3" y1="252.9" x2="142.65" y2="259.6"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="167.05" y1="245.5" x2="158.6" y2="250.4"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="156.65" y1="257.05" x2="145.75" y2="263.35"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="167.05" y1="251" x2="161.1" y2="254.45"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					154,268.3 153.65,267.15 153.85,265.25 154.6,263.65 155.95,262 157.65,260.55 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					142.65,259.6 142.65,257.35 139.35,259.35 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					169.9,240.45 166.1,242.65 166.1,244.9 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="154" y1="251.9" x2="142.65" y2="258.35"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="166.1" y1="244.9" x2="158.25" y2="249.4"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="141.7" y1="256.7" x2="138.85" y2="258.35"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="167.05" y1="243.25" x2="166.1" y2="242.65"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="170.95" y1="241" x2="169.9" y2="240.45"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="142.65" y1="257.35" x2="141.7" y2="256.7"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					137.7,229.15 137.25,229.45 136.85,229.85 136.65,230.4 136.55,231.1 136.55,255.5 136.65,256.3 137.8,258.8 138.4,259.55 
+					139.7,260.65 160.35,273.1 161.7,273.65 162.3,273.65 162.8,273.5 163.25,273.2 163.55,272.8 163.85,272.2 163.95,271.6 
+					163.95,270.75 163.55,269.1 142.35,232.25 141.95,231.4 140.8,230.05 139.45,229.25 138.85,229.05 138.2,229.05 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					129.35,253.65 128.95,254.05 127.8,254.45 126.6,254.6 121.95,253.65 121.45,253.65 121.2,253.85 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					218.1,311.55 218.1,310.75 217.95,310.1 217.5,309.25 217.3,308.95 217,308.65 216.8,308.3 216.45,308.1 172.7,275.65 
+					170.75,273.1 137.2,215.05 131.75,211.95 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					138.05,214.5 138.05,212.95 137.9,212.8 137.9,212.45 137.7,212.05 137.2,211.55 133,209.05 132.85,209.05 132.85,209 
+					132.75,209 132.75,208.85 132.65,208.85 132.65,208.8 132.55,208.8 132.45,208.65 132.45,208.55 132.35,208.45 132.35,208.35 
+					132.25,208.35 132.25,208.25 132.15,208.15 132.15,207.8 132.05,207.8 132.05,206.15 131.95,206.1 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					169.4,239.55 169.9,240.25 170.15,240.45 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					171.05,241.6 171.7,242.15 193.1,254.85 193.75,255.05 194.85,255 195.4,254.65 195.7,254.25 195.9,253.65 196,253.05 
+					195.9,251.5 195.25,249.75 174.45,213.7 174.05,212.85 173.45,212.15 172.2,211 171.55,210.7 170.9,210.5 170.35,210.5 
+					169.7,210.6 169.4,210.8 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="162" y1="244.05" x2="162.95" y2="244.6"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					162.95,233.45 162.75,233.85 161.6,235.1 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="147.85" y1="241.7" x2="143.4" y2="244.4"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="169.3" y1="195.05" x2="138.05" y2="212.95"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="169.3" y1="240.8" x2="169.3" y2="196.6"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="143.4" y1="233.85" x2="143.4" y2="258.1"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="162.95" y1="246.75" x2="162.95" y2="202.8"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="167.05" y1="245.5" x2="166.1" y2="244.9"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					250.15,291.95 250,291.55 249.6,290.8 249.1,290.1 248.8,289.8 204.85,257.15 202.75,254.6 169.3,196.6 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="170.7" y1="248.1" x2="247.25" y2="292.4"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="169.3" y1="196.6" x2="169.3" y2="195.05"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					165.1,248.3 165.2,249 164.9,249.85 164.25,250.6 163.65,250.85 163.15,250.6 163.05,249.85 163.35,249 163.95,248.3 
+					164.6,247.95 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					161.15,249.85 161.8,249.6 162.3,249.95 162.4,250.6 162.1,251.5 161.5,252.2 160.9,252.4 160.35,252.1 160.25,251.5 
+					160.55,250.6 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					153.85,254.8 154,255.5 153.65,256.3 153.05,257.05 152.35,257.35 151.95,257.05 151.7,256.3 152.65,254.8 153.35,254.45 				
+					"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					148.1,259.2 148,258.5 148.3,257.7 148.9,256.9 149.5,256.7 150.05,256.9 150.15,257.7 149.85,258.5 149.25,259.2 
+					148.65,259.55 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					146.85,259.6 146.55,260.45 145.95,261.2 145.35,261.4 144.8,261.05 144.7,260.35 145,259.55 145.6,258.8 146.35,258.55 
+					146.75,258.9 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					183.4,259.1 183.4,259.35 183.35,259.55 183,259.85 182.8,259.95 182.6,259.95 182.4,260.05 181.65,260.05 181.5,259.95 
+					181.3,259.95 181.05,259.85 180.65,259.6 180.45,259.4 180.45,259 180.5,258.9 180.5,258.8 180.85,258.5 181.05,258.5 
+					181.5,258.3 182.15,258.3 182.4,258.35 182.6,258.35 183,258.55 183.15,258.7 183.35,258.8 183.35,258.9 				"/>
+			</g>
+			<g>
+				
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+					M199.8,268.8c0,0.534-0.517,0.8-1.55,0.8c-0.967-0.1-1.45-0.45-1.45-1.05c0-0.2,0.167-0.367,0.5-0.5
+					c0.3-0.167,0.65-0.233,1.05-0.2C199.417,267.85,199.9,268.167,199.8,268.8z"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					213.3,277.95 213.7,277.55 214.15,277.3 214.3,277.3 214.6,277.25 214.8,277.25 215,277.3 215.25,277.3 215.45,277.45 
+					215.65,277.45 216.05,277.65 216.25,277.95 216.25,278.45 216.15,278.55 215.85,278.75 215.45,278.95 214.3,278.95 
+					214.15,278.9 213.9,278.9 213.35,278.45 213.35,278.35 213.3,278.3 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					217.6,292.25 217.8,292.4 218,292.4 218.4,292.6 218.85,293 218.85,293.3 218.6,293.5 218.55,293.7 218.4,293.7 218,293.9 
+					217.8,293.9 217.5,294 217.1,294 216.9,293.9 216.6,293.9 216.05,293.6 215.95,293.5 215.85,293.3 215.85,292.8 216.15,292.6 
+					216.25,292.45 216.45,292.4 216.65,292.4 216.9,292.25 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					231.5,289.55 231.7,289.35 231.85,289.15 232.1,288.95 233.15,288.7 234,288.7 234.35,288.75 234.7,288.75 235,288.95 
+					235.65,289.55 235.65,290 235.35,290.55 235,290.6 234.7,290.8 234.35,290.95 234,290.95 233.55,291 233.25,290.95 
+					232.85,290.95 231.9,290.55 231.7,290.35 231.5,289.8 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					220.6,295.85 220.7,295.65 220.9,295.45 221.45,295.15 222.1,294.95 222.95,294.95 224.1,295.25 224.5,295.65 224.75,296.05 
+					224.75,296.35 224.5,296.6 224.4,296.8 224.1,297 223.1,297.3 222.25,297.3 221.25,297 220.9,296.8 220.8,296.6 220.6,296.35 
+									"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="168.2" y1="193.7" x2="137.6" y2="211.3"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="163.15" y1="190" x2="132.35" y2="207.75"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="163.35" y1="188.4" x2="132.05" y2="206.3"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="164.05" y1="191.35" x2="133.4" y2="209"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					161.8,201.15 162.1,200.3 162.6,199.8 163.25,199.7 163.65,200 163.65,200.6 163.35,201.45 162.75,201.95 162.2,202.05 
+					161.8,201.75 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					156.45,204.1 156.45,204.85 156.15,205.55 155.5,206.1 155,206.3 154.6,205.95 154.6,205.25 154.9,204.5 155.5,204 156,203.85 
+									"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					152.2,207.2 152,207.95 151.4,208.45 150.9,208.65 150.5,208.35 150.5,207.65 150.8,206.9 151.4,206.35 151.95,206.15 
+					152.2,206.6 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					145.15,210.7 145.15,211.3 144.8,212.15 144.2,212.65 143.7,212.8 143.25,212.45 143.25,211.85 143.6,211 144.2,210.5 
+					144.7,210.4 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					219.05,312.05 250.15,294.1 250.15,291.95 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="219.35" y1="312.95" x2="242.7" y2="299.5"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="218.1" y1="311.3" x2="218.1" y2="313.45"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="222.9" y1="317.2" x2="222.9" y2="311.3"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					220.9,312.05 221.9,313.9 221.9,314.1 222.05,314.2 222.05,314.7 221.7,315 221.5,315 221.45,314.9 221.3,314.9 220.8,314.4 
+					219.85,312.65 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					233.75,311.1 233.15,311.1 232.65,311.3 232.1,311.6 231.7,312.15 231.05,313.4 230.85,314.1 230.8,314.8 231,316.25 
+					231.2,316.85 232.05,318 232.45,318.3 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					234.6,310.5 233.9,310.4 232.5,310.7 231.9,311.1 231.4,311.6 231,312.35 230.45,314 230.4,315.85 230.55,316.65 230.85,317.45 
+					231.7,318.85 232.35,319.25 232.95,319.45 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					230.85,310.95 230.05,310.95 229.65,311.1 229.15,311.4 228.2,312.85 228,314.1 228,314.7 228.6,316.45 229.45,317.05 
+					229.85,317.25 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					231.05,309.65 230.45,309.55 229.75,309.55 229,309.9 228.4,310.3 227.4,311.6 227.05,312.45 226.9,313.25 226.8,315.25 
+					227,316.15 227.7,317.7 228.2,318.3 229.45,319.05 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					225.65,309.95 225.25,310.15 224.8,310.5 224.1,311.3 223.75,311.95 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					241.45,315.95 241.45,315.25 241.3,314.3 241,313.45 240.85,313.25 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					239.85,319.95 240.35,319.45 240.85,318.7 241.2,317.9 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					241.8,316.05 241.65,316.15 241.4,316.45 241.3,316.65 241.3,317.4 241.4,317.6 241.65,317.9 241.8,318 242.1,318 242.3,317.8 
+					242.5,317.7 242.65,317.6 242.65,317.4 242.7,317.2 242.7,316.85 242.65,316.65 242.65,316.45 242.3,316.15 242.1,316.05 				
+					"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="241.8" y1="318" x2="239" y2="317.25"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="242.1" y1="316.05" x2="239.35" y2="315.35"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					242.7,312.45 242.1,312.35 241.4,312.45 240.8,312.65 240.15,313.05 239.65,313.6 239.15,314.3 238.8,315.1 238.5,316.85 
+					238.5,317.9 239,319.55 239.4,320.25 239.95,320.9 240.45,321.3 241.2,321.6 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					242.95,313.2 243.75,313.7 244.1,314.1 244.7,315.1 244.95,317 244.7,318.85 244.1,319.9 243.75,320.25 243.3,320.55 
+					242.45,321 241.45,321 240.55,320.7 240.25,320.25 239.85,319.95 239.55,319.45 239,317.7 239,316.45 239.55,314.7 
+					239.85,314.2 240.55,313.45 241.45,313.05 242,312.95 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="239" y1="307.8" x2="239" y2="302.05"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					237.05,302.8 238.1,304.6 238.1,304.7 238.2,304.95 238.2,305.45 238.1,305.45 238.1,305.55 238,305.55 237.9,305.65 
+					237.7,305.65 237.6,305.55 237.5,305.55 237.25,305.35 237.2,305.25 236.95,305.05 236,303.3 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					250,301.75 249.3,301.75 248.3,302.35 247.9,302.8 247.25,304 246.95,305.45 247.15,306.85 247.45,307.6 248.2,308.65 
+					248.6,309.05 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					250.75,301.15 250,301 248.7,301.35 248.1,301.75 247.6,302.35 247.15,303.1 246.85,303.8 246.65,304.6 246.55,306.45 
+					247.05,308.1 247.9,309.45 248.5,309.9 249.1,310.15 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					247.05,301.65 246.75,301.55 246.25,301.55 245.8,301.75 245.3,302.05 244.7,302.85 244.15,304.7 244.35,305.95 244.6,306.6 
+					245.2,307.5 245.6,307.8 246,308 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					247.25,300.3 246.65,300.15 245.2,300.5 244.6,300.95 243.55,302.25 243.25,303.1 242.95,304.95 242.95,305.85 243.15,306.8 
+					243.45,307.6 243.85,308.3 244.35,308.95 244.95,309.35 245.6,309.65 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					241.9,300.6 241.4,300.8 240.55,301.55 239.95,302.6 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					257.65,306.6 257.65,305.85 257.15,304.1 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					256,310.6 256.55,310.1 257.05,309.35 257.35,308.5 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					257.9,306.8 257.75,306.85 257.45,307.25 257.45,308 257.55,308.25 257.65,308.3 257.75,308.5 257.9,308.65 258.5,308.65 
+					258.7,308.3 258.8,308.25 258.8,308 258.9,307.9 258.9,307.5 258.8,307.25 258.8,307.1 258.5,306.8 258.25,306.65 
+					258.05,306.65 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="258" y1="308.65" x2="255.2" y2="307.9"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="258.25" y1="306.65" x2="255.5" y2="305.95"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					258.9,303.1 258.25,303 257.55,303.1 256.95,303.3 256.35,303.7 255.3,304.95 254.95,305.75 254.7,307.6 254.7,308.5 
+					254.9,309.35 255.6,310.95 256.1,311.55 256.75,312.05 257.35,312.25 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					255.2,307.1 255.3,306.45 255.75,305.35 256,304.95 256.85,304.1 257.65,303.7 258.6,303.7 259.1,303.8 259.9,304.4 
+					260.85,305.75 261.2,307.6 260.85,309.45 259.9,310.95 259.1,311.55 258.2,311.75 257.25,311.55 256.4,311 256,310.6 
+					255.5,309.55 255.3,308.95 255.2,308.45 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					143.4,223.9 143.4,214.3 143.5,213.9 152.8,208.45 152.95,207.95 153.05,206.8 153.8,206.3 153.8,207.2 154,207.35 154.3,207.4 
+					154.45,207.4 163.55,202.25 163.75,202.25 163.95,202.35 163.95,246.1 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					161.6,209.45 155.2,213.2 155.2,222.85 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					155.2,233.25 155.2,223.2 161.6,219.6 				"/>
+			</g>
+			<g>
+				
+					<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					153.15,214.3 153.15,224 146.85,227.7 146.85,218 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					154.9,243.95 154.9,240.05 162,236.05 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					151.6,238.2 151.6,236.95 156.55,234.2 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					156.55,246.65 161.1,243.95 161.15,243.95 161.15,243.85 161.3,243.8 161.3,237.3 161.1,237.3 155.8,240.25 155.75,240.4 
+					155.75,240.45 155.6,240.45 155.6,245.1 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="146.45" y1="228.2" x2="146.45" y2="229.4"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					155.2,222.15 161.1,218.85 161.1,209.8 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					161.1,219.9 161.1,229.4 155.2,232.65 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="161.6" y1="230.05" x2="161.6" y2="235.7"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="144.6" y1="216.75" x2="146.45" y2="217.8"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="153.05" y1="211.85" x2="154.9" y2="212.95"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="161.6" y1="219.15" x2="161.1" y2="218.85"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="153.15" y1="224" x2="151.3" y2="222.95"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="161.6" y1="229.65" x2="161.1" y2="229.4"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="154.9" y1="240.05" x2="154.2" y2="239.65"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					151.3,215.45 151.3,222.95 146.85,225.55 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					156.85,247.15 162,244.15 162,236.05 160.05,234.9 156.55,236.95 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="151.6" y1="236.95" x2="150.55" y2="236.5"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					152.8,240.4 156.55,238.35 156.55,234.2 155.4,233.55 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					144.6,226.05 144.6,216.75 151.6,212.65 153.55,213.8 153.55,234.7 150.55,236.35 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					153.55,233.05 154.9,233.85 162,229.75 162,208.85 160.05,207.8 153.05,211.85 153.05,213.45 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					146.45,253.15 146.45,244.9 148.9,243.55 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="146.45" y1="244.9" x2="144.6" y2="243.85"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					150.35,235.95 152.65,234.6 152.75,234.5 152.75,234.4 152.8,234.4 152.8,225.05 152.65,225.05 147.4,228 147.25,228.1 
+					147.2,228.2 147.2,230.4 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					209.8,302.05 210.2,301.65 210.5,301.45 210.8,301.35 211.25,301.35 211.65,301.2 212.05,301.35 212.5,301.35 212.75,301.45 
+					213.1,301.65 213.35,301.75 213.6,301.95 213.7,302.25 213.7,302.65 213.6,302.85 213.15,303.3 212.15,303.6 211.75,303.6 				
+					"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					152.45,249.75 146.45,253.15 144.6,252 144.6,243.85 147.85,241.9 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="138.05" y1="229.05" x2="138.05" y2="257.15"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					163.25,258.3 168.6,257.55 171.7,257.7 177.45,258.8 179.9,259.85 215,280.95 216.6,282.45 217.7,284.1 218.1,285.85 
+					218,287.65 217.3,289.35 215.95,291 214.15,292.45 211.85,293.7 209.25,294.65 203.3,295.45 200.6,295.35 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					121,253.95 120.75,254.8 120.75,255.05 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					131.75,211.95 131.6,249.85 130.75,252.4 129.9,253.35 129.35,253.65 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					131.2,205.7 131.2,207.5 131.35,207.65 131.35,207.8 131.4,207.95 131.4,208.15 131.55,208.25 131.55,208.35 131.6,208.45 
+					131.6,208.55 131.75,208.65 131.75,208.8 131.85,208.85 131.85,209 131.95,209 132.05,209.05 132.05,209.2 132.15,209.3 
+					132.15,209.4 132.25,209.45 132.35,209.45 132.45,209.6 132.45,209.65 132.55,209.8 132.65,209.8 132.85,210 133,210 
+					137,212.35 137.05,212.45 137.2,212.45 137.2,214.1 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					137.9,229.05 137.4,230 137.25,230.7 137.25,254.25 137.5,255.9 138.1,257.55 139.15,259.1 139.75,259.75 161.8,273 
+					163.05,273.2 163.35,273.1 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="136.4" y1="213.6" x2="132.55" y2="211.45"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="137.2" y1="214.1" x2="136.4" y2="213.6"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="137.6" y1="214.3" x2="137.2" y2="214.1"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					218.85,310.3 218.85,309.95 218.6,309.55 218.55,309.25 217.8,308.1 174.65,276.3 171.5,272.6 138.05,214.5 137.6,214.45 				
+					"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					129.35,253.65 128.55,253.95 127.25,254.15 122.8,253.25 122.25,253.25 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					171.7,241 172.55,241.7 193.95,254.45 194.55,254.65 195.15,254.65 195.4,254.6 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="132.55" y1="211.45" x2="131.75" y2="211.95"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="122.05" y1="253.35" x2="121.2" y2="253.85"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					171.7,241 171.5,240.8 171.5,240.65 171.35,240.65 171.3,240.45 171.15,240.4 170.9,240.05 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					169.3,236.95 170.7,239.85 170.9,240.05 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					169.2,194.9 169.2,194.65 169.1,194.45 169.1,194.25 168.7,193.85 168.6,193.6 168.5,193.5 168.25,193.5 164.25,191.15 
+					164.25,191.05 164.2,191.05 163.95,190.85 163.85,190.85 163.85,190.75 163.65,190.55 163.65,190.45 163.55,190.3 163.55,190.2 
+					163.45,190.1 163.45,190 163.35,189.9 163.35,188.25 163.25,188.2 163.25,187.95 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="120.75" y1="255.05" x2="120.75" y2="257.15"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="124.1" y1="253.55" x2="131.75" y2="249.1"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="120.75" y1="255.05" x2="120.75" y2="257.15"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="162.6" y1="187.65" x2="131.35" y2="205.7"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="120.8" y1="257.25" x2="218.2" y2="313.6"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="219.05" y1="311.3" x2="219.05" y2="312.05"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					242.7,299.5 250.75,294.85 250.95,294.65 250.95,291.85 250.65,290.75 249.95,289.7 249.3,289.05 205.65,256.7 203.6,254.05 
+					169.3,194.7 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="218.3" y1="313.45" x2="219.35" y2="312.95"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="223.75" y1="316.65" x2="223.75" y2="310.95"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					219.35,312.95 221.25,316.25 222.9,317.2 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="223.75" y1="316.65" x2="222.9" y2="317.2"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					241.2,321.6 241.8,321.7 242.5,321.6 243.15,321.4 243.75,321 244.8,319.75 245.2,318.9 245.4,318 245.4,316.15 245.2,315.35 
+					244.6,313.8 244.1,313.2 243.45,312.75 242.7,312.45 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="232.95" y1="319.45" x2="233.7" y2="319.65"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="234.9" y1="310.7" x2="234.6" y2="310.5"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					233.55,310.3 232.85,310.15 232.25,310.15 231,310.95 230.45,311.4 229.95,312.15 229.45,313.8 229.35,314.6 229.55,316.45 
+					230.25,317.9 230.8,318.5 232.05,319.25 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="232.95" y1="319.45" x2="232.05" y2="319.25"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					229.45,319.05 230.2,319.1 231.3,318.9 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					232.1,310.15 231.85,309.95 231.05,309.65 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					228.75,309.05 228,308.95 226.65,309.25 226.05,309.65 225,311 224.75,311.8 224.4,313.6 224.4,314.6 224.95,316.35 
+					225.35,317.05 225.85,317.7 226.45,318.1 227.05,318.4 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="234.6" y1="310.5" x2="233.55" y2="310.3"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="229.45" y1="319.05" x2="227.05" y2="318.4"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					223.75,314.7 224.3,315.65 224.6,316.05 224.95,316.25 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="231.05" y1="309.65" x2="228.75" y2="309.05"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					241.2,321.6 234.5,319.95 233.75,319.65 232.7,318.65 232.05,317.05 231.85,316.15 231.85,314.3 232.1,313.4 232.85,311.95 
+					233.5,311.3 234.1,310.95 234.7,310.7 235.4,310.6 236,310.7 242.7,312.45 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="239.95" y1="307.25" x2="239.95" y2="301.55"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					235.55,303.6 237.4,306.85 239,307.8 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="242.95" y1="299.7" x2="242.7" y2="299.5"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="239.95" y1="307.25" x2="239" y2="307.8"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					257.35,312.25 258.05,312.45 258.7,312.35 259.4,312.05 260.55,311.1 260.95,310.4 261.55,308.75 261.65,307.8 261.45,305.95 
+					261.2,305.15 260.75,304.4 260.2,303.8 259.6,303.4 258.9,303.1 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="249.1" y1="310.15" x2="249.8" y2="310.3"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="251.05" y1="301.35" x2="250.75" y2="301.15"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					249.75,300.95 249.1,300.8 248.4,300.8 247.15,301.55 246.65,302.05 246.15,302.8 245.8,303.5 245.5,305.35 245.5,306.25 
+					246,307.9 246.45,308.65 247.6,309.65 248.2,309.9 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="249.1" y1="310.15" x2="248.2" y2="309.9"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					245.6,309.65 246.35,309.75 247.05,309.75 247.45,309.55 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					248.4,300.95 248,300.6 247.25,300.3 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					244.9,299.7 244.3,299.55 242.85,299.9 242.2,300.3 241.2,301.65 240.85,302.45 240.55,304.3 240.55,305.25 241.05,307 
+					241.45,307.7 242,308.3 242.65,308.75 243.25,309.05 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="250.75" y1="301.15" x2="249.75" y2="300.95"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="245.6" y1="309.65" x2="243.25" y2="309.05"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					239.95,305.35 240.45,306.25 240.8,306.65 241.05,306.85 				"/>
+			</g>
+			<g>
+				
+					<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="247.25" y1="300.3" x2="244.9" y2="299.7"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					257.35,312.25 250.65,310.6 250,310.3 249.4,309.9 248.9,309.25 248.2,307.7 248,306.8 248.1,304.95 248.3,304.1 248.6,303.3 
+					249,302.6 249.6,302.05 250.85,301.35 251.6,301.35 258.9,303.1 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					154.3,264.35 155,263.45 156.75,262 				"/>
+			</g>
+			<g>
+				
+					<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+					163.85,259.4 167.65,259 170.75,259.1 176.6,260.2 179.1,261.25 214.15,282.4 215.75,283.9 216.8,285.55 217.3,287.3 
+					217.1,289.05 216.65,290.1 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	
+		<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="159.5" y1="109" x2="180.75" y2="109"/>
+	<g>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			26.7,101.15 26.2,101.5 25.6,102.25 24.9,103.7 24.55,105.35 24.9,107.2 25.6,108.7 26.2,109.4 26.7,109.8 		"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="113.55" y1="135.9" x2="161.45" y2="135.9"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="65.5" y1="105.35" x2="79.2" y2="125.5"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="79.55" y1="105.35" x2="91.45" y2="121.45"/>
+	</g>
+	<g>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			79.2,125.5 80.1,126.4 82.3,128.05 83.6,128.6 		"/>
+	</g>
+	<g>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M82.85,128.2c6.767,3.133,14.2,4.783,22.3,4.95"/>
+	</g>
+	<g>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M91.25,121.1c4.267,4.033,9.083,6.4,14.45,7.1"/>
+	</g>
+	<g>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			105.7,133.15 111.55,132.45 114.45,131.7 		"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="106.1" y1="128.2" x2="114.3" y2="129.85"/>
+	</g>
+	<g>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			114.45,130.05 114.7,130.05 115.05,130.45 115.05,131.3 114.85,131.3 114.85,131.7 114.45,131.7 		"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="105.7" y1="133.15" x2="106.1" y2="128.45"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="79.2" y1="125.5" x2="91.45" y2="121.45"/>
+	</g>
+	<g>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			98.55,108.45 98.75,108.85 98.75,109.2 98.95,109.55 99.3,109.95 99.5,110.3 100.6,110.85 100.95,110.85 101.5,111.05 		"/>
+	</g>
+	<g>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			101.15,98.4 100.75,98.4 99.65,99 99.3,99.35 98.55,100.8 98.55,101.15 		"/>
+	</g>
+	<g>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			107.75,110.85 108.1,110.85 109.2,110.3 109.55,109.95 109.75,109.8 110.1,109.05 110.1,108.1 		"/>
+	</g>
+	<g>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			110.1,101.35 110.1,100.1 109.95,99.7 109,98.75 108.6,98.6 108.25,98.6 107.75,98.4 107.35,98.4 		"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="107.75" y1="98.4" x2="101.15" y2="98.4"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="98.55" y1="101.15" x2="98.55" y2="108.45"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="101.5" y1="111.05" x2="107.75" y2="111.05"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="110.1" y1="108.1" x2="110.1" y2="101"/>
+	</g>
+	<g>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			130.6,124.35 130,124.2 129.5,124.35 128.95,124.35 128.35,124.6 127.65,125.3 126.9,126.4 126.55,127.3 126.55,127.85 		"/>
+	</g>
+	<g>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			145.4,127.7 145.4,127.1 145.2,126.6 144.65,125.7 143.9,124.95 143.4,124.6 142.8,124.35 142.3,124.35 141.75,124.2 		"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="126.55" y1="127.85" x2="126.55" y2="135.9"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="145.4" y1="127.7" x2="145.4" y2="135.75"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="130.6" y1="124.35" x2="141.75" y2="124.35"/>
+	</g>
+	<g>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M79.9,79.05c-17.8,3.967-35.283,11.1-52.45,21.4"/>
+	</g>
+	<g>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M114.45,74.85c-10.467,0-22.1,1.4-34.9,4.2"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="113.75" y1="74.85" x2="162.4" y2="74.85"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="65.5" y1="105.35" x2="79.2" y2="85.45"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="79.75" y1="105.35" x2="91.6" y2="89.3"/>
+	</g>
+	<g>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			79.2,85.45 80.1,84.35 81.25,83.45 83.6,82.15 		"/>
+	</g>
+	<g>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M106.45,77.6c-7.133,0-14.7,1.583-22.7,4.75"/>
+	</g>
+	<g>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M106.1,82.5c-5.533,0.8-10.367,3.067-14.5,6.8"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="105.7" y1="77.6" x2="114.45" y2="79.05"/>
+	</g>
+	<g>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			106.1,82.5 111.55,81.6 114.3,80.85 		"/>
+	</g>
+	<g>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			114.45,80.85 114.7,80.7 114.85,80.7 114.85,80.5 115.05,80.35 115.05,80.15 115.2,79.95 115.05,79.75 115.05,79.4 114.85,79.25 
+			114.85,79.05 114.45,79.05 		"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="105.7" y1="77.6" x2="106.25" y2="82.35"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="79.2" y1="85.45" x2="91.6" y2="89.3"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="37.35" y1="116" x2="37.35" y2="95.15"/>
+	</g>
+	<g>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			132.75,78.7 131.7,78.7 130.6,78.35 130.2,77.95 129.65,77.6 129.3,77.25 128.75,75.55 128.75,75 		"/>
+	</g>
+	<g>
+		
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+			145,75.2 145,75.75 144.65,76.85 144.3,77.4 143.55,78.1 141.9,78.7 141.4,78.7 		"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="132.75" y1="78.7" x2="141.4" y2="78.7"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="129.5" y1="111.05" x2="111.55" y2="142.15"/>
+	</g>
+	<g>
+		
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" x1="151.8" y1="99" x2="159.8" y2="70.05"/>
+	</g>
+	<g>
+		<rect x="146.9" y="97.7" fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" width="10.45" height="4.2"/>
+	</g>
+	<g>
+		<rect x="146.8" y="106.75" fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" width="10.45" height="4.2"/>
+	</g>
+	<g>
+		<rect x="127.35" y="106.65" fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" width="10.45" height="4.2"/>
+	</g>
+	<text transform="matrix(1 0 0 1 100 60.2256)"><tspan x="0" y="0" fill="#999999" font-family="'Tahoma'" font-size="12">REL</tspan><tspan x="20.15" y="0" fill="#999999" font-family="'Tahoma'" font-size="12">A</tspan><tspan x="26.746" y="0" fill="#999999" font-family="'Tahoma'" font-size="12">Y</tspan><tspan x="33.516" y="0" fill="#999999" font-family="'Tahoma'" font-size="12"> JUNCTION BOX 2</tspan></text>
+	<text transform="matrix(1 0 0 1 181.8999 109.1758)"><tspan x="0" y="0" fill="#FF0000" font-family="'Tahoma'" font-size="12">REL</tspan><tspan x="20.15" y="0" fill="#FF0000" font-family="'Tahoma'" font-size="12">A</tspan><tspan x="26.746" y="0" fill="#FF0000" font-family="'Tahoma'" font-size="12">Y</tspan><tspan x="33.516" y="0" fill="#FF0000" font-family="'Tahoma'" font-size="12"> JUNCTION BOX 1</tspan></text>
+	<text transform="matrix(1 0 0 1 29.3501 152.2256)"><tspan x="0" y="0" fill="#999999" font-family="'Tahoma'" font-size="12">REL</tspan><tspan x="20.15" y="0" fill="#999999" font-family="'Tahoma'" font-size="12">A</tspan><tspan x="26.746" y="0" fill="#999999" font-family="'Tahoma'" font-size="12">Y</tspan><tspan x="33.516" y="0" fill="#999999" font-family="'Tahoma'" font-size="12"> JUNCTION BOX 3</tspan></text>
+</g>
+</svg>
