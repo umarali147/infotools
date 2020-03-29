@@ -2542,7 +2542,7 @@
 	</g>
 </g>
 <text transform="matrix(1 0 0 1 22.4502 282.2051)" font-family="'Tahoma'" font-size="14">QTY. SW.</text>
-<use xlink:href="#unit2"  width="98" height="19.85" id="XMLID_1_" y="-19.85" transform="matrix(1 0 0 -1 119.6499 46.4502)" overflow="visible"/>
+<use xlink:href="#unit2" svgname="hyd_reserv_lh_p2" width="98" height="19.85" id="XMLID_1_" y="-19.85" transform="matrix(1 0 0 -1 119.6499 46.4502)" overflow="visible"/>
 <g>
 	<g>
 		<path fill-rule="evenodd" clip-rule="evenodd" fill="#0099FF" d="M117.7,62.05c0,5-2.5,7.5-7.5,7.5h-83c-5,0-7.5-2.5-7.5-7.5V45.7
