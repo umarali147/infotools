@@ -65,19 +65,19 @@
 		</g>
 	</g>
 </symbol>
-<symbol  id="reservoir_tab" viewBox="0 -19.85 98 19.85">
+<symbol  id="unit1" viewBox="0 -19.85 98 19.85">
 	<g id="Ebene_3_5_">
 		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M98,0v-12.35c0-5-2.5-7.5-7.5-7.5h-83c-5,0-7.5,2.5-7.5,7.5V0H98
 			z"/>
 	</g>
-	<text id="reservoir_tab" transform="matrix(1 0 0 -1 22.041 -13.3257)" fill="#0099FF" font-family="'Tahoma'" font-size="12">Reservoir</text>
+	<text transform="matrix(1 0 0 -1 22.041 -13.3257)" fill="#0099FF" font-family="'Tahoma'" font-size="12">Reservoir</text>
 </symbol>
-<symbol  id="temp_switches_tab" viewBox="-37.133 -19.85 135.133 19.887">
+<symbol  id="unit2" viewBox="-37.133 -19.85 135.133 19.887">
 	<g id="Ebene_3_4_">
 		<path fill-rule="evenodd" clip-rule="evenodd" fill="#CCCCCC" d="M98-12.35c0-5-2.5-7.5-7.5-7.5h-83c-5,0-7.5,2.5-7.5,7.5V0h98
 			V-12.35z"/>
 	</g>
-	<text id="temp_switches_tab" transform="matrix(1 0 0 -1 -37.1328 -10.3257)" fill="#0099FF" font-family="'Tahoma'" font-size="12">Temp. Switches</text>
+	<text transform="matrix(1 0 0 -1 -37.1328 -10.3257)" fill="#0099FF" font-family="'Tahoma'" font-size="12">Temp. Switches</text>
 </symbol>
 <symbol  id="verkn">
 </symbol>
@@ -103,11 +103,11 @@
 <g>
 	<text transform="matrix(1 0 0 1 37.7002 327.605)"><tspan x="0" y="0" font-family="'Tahoma-Bold'" font-size="14">275 °F Temperature Switch </tspan><tspan x="0" y="21" font-family="'Tahoma'" font-size="14">Parts</tspan><tspan x="0" y="42" font-family="'Tahoma'" font-size="14">Removal</tspan><tspan x="0" y="63" font-family="'Tahoma'" font-size="14">Installation</tspan></text>
 	
-		<use xlink:href="#TR_x5F_neu"  id="TR_AIPC" width="39.329" height="19.163" x="0.01" y="-20.534" transform="matrix(1 0 0 -1 314.2002 330)" overflow="visible"/>
+		<use xlink:href="#TR_x5F_neu"  width="39.329" height="19.163" x="0.01" y="-20.534" transform="matrix(1 0 0 -1 314.2002 330)" overflow="visible"/>
 	
-		<use xlink:href="#TR_x5F_neu" id="TR_AMM" width="39.329" height="19.163" x="0.01" y="-20.534" transform="matrix(1 0 0 -1 314.2002 376.5)" overflow="visible"/>
+		<use xlink:href="#TR_x5F_neu"  width="39.329" height="19.163" x="0.01" y="-20.534" transform="matrix(1 0 0 -1 314.2002 376.5)" overflow="visible"/>
 	
-		<use xlink:href="#TR_x5F_neu" id="TR_AMM"  width="39.329" height="19.163" x="0.01" y="-20.534" transform="matrix(1 0 0 -1 314.2002 353.25)" overflow="visible"/>
+		<use xlink:href="#TR_x5F_neu"  width="39.329" height="19.163" x="0.01" y="-20.534" transform="matrix(1 0 0 -1 314.2002 353.25)" overflow="visible"/>
 </g>
 <use xlink:href="#verkn"  width="-32766" height="-32766" x="16383" y="16383" transform="matrix(1 0 0 -1 113.8501 261.2002)" overflow="visible"/>
 <use xlink:href="#verkn"  width="-32766" height="-32766" x="16383" y="16383" transform="matrix(1 0 0 -1 114.6001 282.2002)" overflow="visible"/>
@@ -116,11 +116,11 @@
 <g>
 	<text transform="matrix(1 0 0 1 37.7002 230.105)"><tspan x="0" y="0" font-family="'Tahoma-Bold'" font-size="14">225 °F Temperature Switch </tspan><tspan x="0" y="21" font-family="'Tahoma'" font-size="14">Parts</tspan><tspan x="0" y="42" font-family="'Tahoma'" font-size="14">Removal</tspan><tspan x="0" y="63" font-family="'Tahoma'" font-size="14">Installation</tspan></text>
 	
-		<use xlink:href="#TR_x5F_neu" id="TR_AIPC"  width="39.329" height="19.163" id="XMLID_2_" x="0.01" y="-20.534" transform="matrix(1 0 0 -1 314.2002 231.5)" overflow="visible"/>
+		<use xlink:href="#TR_x5F_neu"  width="39.329" height="19.163" id="XMLID_2_" x="0.01" y="-20.534" transform="matrix(1 0 0 -1 314.2002 231.5)" overflow="visible"/>
 	
-		<use xlink:href="#TR_x5F_neu" id="TR_AMM" width="39.329" height="19.163" x="0.01" y="-20.534" transform="matrix(1 0 0 -1 314.2002 278)" overflow="visible"/>
+		<use xlink:href="#TR_x5F_neu"  width="39.329" height="19.163" x="0.01" y="-20.534" transform="matrix(1 0 0 -1 314.2002 278)" overflow="visible"/>
 	
-		<use xlink:href="#TR_x5F_neu" id="TR_AMM" width="39.329" height="19.163" x="0.01" y="-20.534" transform="matrix(1 0 0 -1 314.2002 254.75)" overflow="visible"/>
+		<use xlink:href="#TR_x5F_neu"  width="39.329" height="19.163" x="0.01" y="-20.534" transform="matrix(1 0 0 -1 314.2002 254.75)" overflow="visible"/>
 </g>
 <g>
 	<text transform="matrix(1 0 0 1 100.8203 145.7051)" font-family="'Tahoma'" font-size="14">2911-P10</text>
@@ -148,8 +148,8 @@
 	</g>
 </g>
 <text transform="matrix(1 0 0 1 90.25 101.2051)" font-family="'Tahoma'" font-size="14">HYD. FLUID RES. QTY. SW.</text>
-<use xlink:href="#temp_switches_tab"  width="135.133" height="19.887" x="-37.133" y="-19.85" transform="matrix(1 0 0 -1 119.6499 46.4502)" overflow="visible"/>
-<use xlink:href="#reservoir_tab"  width="98" height="19.85" id="XMLID_1_" y="-19.85" transform="matrix(1 0 0 -1 19.6499 46.4502)" overflow="visible"/>
+<use xlink:href="#unit2"  width="135.133" height="19.887" x="-37.133" y="-19.85" transform="matrix(1 0 0 -1 119.6499 46.4502)" overflow="visible"/>
+<use xlink:href="#unit1" svgname="hyd_reserv_lh_p1" width="98" height="19.85" id="XMLID_1_" y="-19.85" transform="matrix(1 0 0 -1 19.6499 46.4502)" overflow="visible"/>
 <g>
 	<g>
 		<path fill-rule="evenodd" clip-rule="evenodd" fill="#0099FF" d="M217.7,62.05c0,5-2.5,7.5-7.5,7.5h-83c-5,0-7.5-2.5-7.5-7.5V45.7
