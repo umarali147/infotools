@@ -1,0 +1,32 @@
+/*  fonts  */
+
+@font-face {
+	font-family: 'helvetica';
+  src:  url("/Helvetica-Light.ttf") format("truetype");
+
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+	font-family: 'helvetica';
+  src:  url("./Helvetica.ttf") format("truetype");
+ 
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: 'helvetica';
+  src:  url("./Helvetica-Bold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+font-family: 'tahoma';
+  src:  url("./Tahoma.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+body, div, span, p, h1, h3, h4, h5, h6, a, label, button, section, input, textarea {
+  font-family: 'helvetica','tahoma',Arial, Helvetica, sans-serif;
+}
